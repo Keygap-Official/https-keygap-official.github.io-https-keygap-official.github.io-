@@ -1,0 +1,1 @@
+TEST DI CONNESSIONE: Il bot Keygap è operativo. Automazione Crontab verificata alle ore 18:35.

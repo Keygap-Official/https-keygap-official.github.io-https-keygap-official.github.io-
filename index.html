@@ -6,40 +6,34 @@
     <title>KEYGAP TERMINAL</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
-        body { background: #01060b; color: #e6f1ff; font-family: 'Inter', sans-serif; margin: 0; }
-        .header { border-bottom: 2px solid #c5a059; padding: 15px; background: #000; display: flex; justify-content: space-between; align-items: center; }
-        .main-grid { display: grid; grid-template-columns: 450px 1fr; gap: 15px; padding: 15px; }
-        .notizia-box { 
-            background: #0d1117; 
-            border: 2px solid #c5a059; 
-            padding: 25px; 
-            margin-bottom: 20px;
-            box-shadow: 0 0 15px rgba(197, 160, 89, 0.3);
+        body { background: #000; color: #fff; font-family: sans-serif; margin: 0; }
+        /* FASCIA NOTIZIA GIGANTE */
+        .top-banner { 
+            background: #ff0000; /* ROSSO ACCESO */
+            color: white; 
+            padding: 20px; 
+            text-align: center; 
+            font-size: 30px; 
+            font-weight: bold;
+            border-bottom: 5px solid #fff;
+            animation: pulse 2s infinite;
         }
-        .titolo-notizia { color: #c5a059; font-size: 14px; font-weight: 800; text-transform: uppercase; margin-bottom: 10px; border-bottom: 1px solid #c5a059; display: inline-block; }
-        .testo-notizia { font-size: 22px; font-weight: 700; color: #ffffff; line-height: 1.4; }
+        @keyframes pulse {
+            0% { background-color: #ff0000; }
+            50% { background-color: #8b0000; }
+            100% { background-color: #ff0000; }
+        }
+        .content-grid { display: grid; grid-template-columns: 1fr; gap: 10px; padding: 10px; }
     </style>
 </head>
 <body>
-    <div class="header">
-        <h1 class="text-2xl font-black italic">KEYGAP <span style="color:#c5a059">ADVANTAGE</span></h1>
-        <div id="clock" class="text-xl font-mono text-gray-400">04 March 2026, 19:13:45</div>
+    <div class="top-banner">
+        ⚠️ ULTIMATUM 19:22: TEST DI CONNESSIONE: Il bot Keygap è operativo. Automazione Crontab verificata alle ore 18:35.
     </div>
 
-    <div class="main-grid">
-        <div class="left-col">
-            <div class="notizia-box">
-                <div class="titolo-notizia">🔴 EVENING MARKET REVIEW</div>
-                <div class="testo-notizia">TEST DI CONNESSIONE: Il bot Keygap è operativo. Automazione Crontab verificata alle ore 18:35.</div>
-            </div>
-            <div style="height: 500px; border: 1px solid #1d2d3d;">
-                <iframe src="https://s.tradingview.com/embed-widget/timeline/?locale=it&theme=dark" width="100%" height="100%" frameborder="0"></iframe>
-            </div>
-        </div>
-        <div class="right-col">
-            <div style="height: 750px; border: 1px solid #1d2d3d;">
-                <iframe src="https://s.tradingview.com/widgetembed/?symbol=SPX&interval=5&theme=dark" width="100%" height="100%" frameborder="0"></iframe>
-            </div>
+    <div class="content-grid">
+        <div style="height: 600px;">
+            <iframe src="https://s.tradingview.com/widgetembed/?symbol=SPX&theme=dark" width="100%" height="100%" frameborder="0"></iframe>
         </div>
     </div>
 </body>
