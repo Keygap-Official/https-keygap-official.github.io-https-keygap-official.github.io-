@@ -3,56 +3,53 @@
 <html lang="it">
 <head>
     <meta charset="UTF-8">
-    <title>KEYGAP MASTER V60</title>
+    <title>KEYGAP GLOBAL TERMINAL v6.0</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
-        body { background: #05070a; color: #e6edf3; font-family: 'Inter', sans-serif; margin: 0; height: 100vh; overflow: hidden; display: flex; flex-direction: column; }
-        header { height: 60px; background: #0d1117; display: flex; align-items: center; padding: 0 20px; border-bottom: 2px solid #c5a059; justify-content: space-between; }
+        body { background: #01060b; color: #e6f1ff; font-family: 'Inter', sans-serif; margin: 0; height: 100vh; overflow: hidden; display: flex; flex-direction: column; }
+        header { height: 60px; background: #000; border-bottom: 2px solid #c5a059; display: flex; align-items: center; padding: 0 25px; justify-content: space-between; }
         .main-layout { display: grid; grid-template-columns: 400px 1fr 350px; flex: 1; gap: 10px; padding: 10px; overflow: hidden; }
-        .card { background: #0d1117; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; display: flex; flex-direction: column; }
-        .card-header { background: #161b22; padding: 10px; font-size: 11px; font-weight: bold; color: #c5a059; text-transform: uppercase; border-bottom: 1px solid #30363d; }
-        .bot-post { background: #05121f; border-left: 4px solid #64ffda; padding: 15px; margin: 10px; border-radius: 4px; border: 1px solid #1d2d3d; }
+        .card { background: #05121f; border: 1px solid #0d2136; border-radius: 8px; overflow: hidden; display: flex; flex-direction: column; }
+        .card-header { background: #0d2136; padding: 10px; font-size: 11px; font-weight: bold; color: #c5a059; text-transform: uppercase; border-bottom: 1px solid #c5a059; }
+        .bot-post-box { background: #04101d; border-left: 4px solid #64ffda; padding: 15px; margin: 10px; border-radius: 4px; border: 1px solid #1d2d3d; }
         iframe { width: 100%; height: 100%; border: none; }
-        #editorial-feed { overflow-y: auto; flex: 1; }
     </style>
 </head>
 <body>
     <header>
-        <div style="font-weight: 900; font-size: 22px;">KEYGAP <span style="color:#c5a059">GLOBAL TERMINAL</span></div>
+        <div style="font-weight: 900; font-size: 22px; letter-spacing: 1px;">KEYGAP <span style="color:#c5a059">GLOBAL</span></div>
         <div style="text-align: right;">
-            <div id="date" style="font-size: 10px; color: #c5a059; font-weight: bold;">04 March 2026, 18:35:31</div>
-            <div id="clock" style="font-family: monospace; color: #64ffda; font-weight: bold; font-size: 18px;">00:00:00</div>
+            <div style="font-size: 10px; color: #c5a059; font-weight: 700; text-transform: uppercase;">04 March 2026, 18:46:37</div>
+            <div id="clock" style="color: #00ff88; font-family: monospace; font-weight: bold; font-size: 18px;">00:00:00</div>
         </div>
     </header>
     
     <div class="main-layout">
         <div class="card">
             <div class="card-header">NEWS STREAM & BOT INSIGHTS</div>
-            <div id="editorial-feed">
-                <div class="bot-post">
-                    <div style="font-size: 9px; color: #64ffda; font-weight: 900;">EVENING MARKET REVIEW // 04 March 2026, 18:35:31</div>
-                    <div style="font-weight: bold; margin: 5px 0; color: #fff; line-height: 1.4;">TEST DI CONNESSIONE: Il bot Keygap è operativo. Automazione Crontab verificata alle ore 18:35.</div>
+            <div style="overflow-y: auto; flex: 1;">
+                <div class="bot-post-box">
+                    <div style="font-size: 9px; color: #64ffda; font-weight: 900; margin-bottom: 5px;">EVENING MARKET REVIEW</div>
+                    <div style="font-weight: bold; color: #fff; line-height: 1.4; font-size: 15px;">TEST DI CONNESSIONE: Il bot Keygap è operativo. Automazione Crontab verificata alle ore 18:35.</div>
                 </div>
                 <iframe src="https://s.tradingview.com/embed-widget/timeline/?locale=it&theme=dark"></iframe>
             </div>
         </div>
 
         <div class="card">
-            <div class="card-header">S&P 500 LIVE CHART</div>
+            <div class="card-header">REAL-TIME MARKET CHART</div>
             <iframe src="https://s.tradingview.com/widgetembed/?symbol=SPX&interval=5&theme=dark"></iframe>
         </div>
 
         <div class="card">
-            <div class="card-header">TECHNICAL GAUGE</div>
+            <div class="card-header">TECHNICAL ANALYSIS GAUGE</div>
             <iframe src="https://s.tradingview.com/embed-widget/technical-analysis/?symbol=SPX&theme=dark"></iframe>
         </div>
     </div>
 
     <script>
         setInterval(() => { 
-            const now = new Date();
-            document.getElementById('clock').innerText = now.toLocaleTimeString('it-IT');
-            document.getElementById('date').innerText = now.toLocaleDateString('it-IT', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+            document.getElementById('clock').innerText = new Date().toLocaleTimeString('it-IT');
         }, 1000);
     </script>
 </body>
