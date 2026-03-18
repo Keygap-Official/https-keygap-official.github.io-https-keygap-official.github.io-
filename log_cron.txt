@@ -30,3 +30,4 @@ hint: 'git pull' before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 Errore comando: git push origin main
+/usr/bin/python3: can't open file '/home/linuxlite/Desktop/Keygap_AdVantage/KEYGAP_ADVANTAGE.py': [Errno 2] No such file or directory
