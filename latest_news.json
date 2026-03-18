@@ -1,5 +1,5 @@
 {
-  "updated_at": "18/03/2026 21:30:02",
+  "updated_at": "18/03/2026 21:46:34",
   "items": [
     {
       "title": "Bitcoin e banche: l’adozione istituzionale cambia il mercato",
@@ -20,7 +20,7 @@
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ0F5U3Zsa25naDVESkI5akNlMWJRdjFMdVRqdU5wcDBlblpua1VrbVpTLUJzMEJSNU9zUWhUNDRSSHNGLTltWTliUXZobEZvaHFpckp0eVBVSUVuRzctbWRtZ1h5RjdTc1gzMHhUYkowajFzdG1KYjRCU1pkUzM1ZEJ1MjluSG5EZlhkR0JUN1ZTLTlzd3BKeHQ2cy1zczhFNVU4RHRZQ0lDTzVIMldNdFNTdTdsX1puNEIzMzJ5dlNxdTZOclFkYXNOOHFkMXhILUc5YWdKaVY?oc=5",
       "source": "CoinDesk",
       "published_at": "Wed, 18 Mar 2026 12:21:00 GMT",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Citi declassa Gemini, legislazione crypto USA in stallo",
@@ -72,17 +72,17 @@
       "is_new": true
     },
     {
-      "title": "Il Rialzo Crypto Rallenta con Ripple e Hyperliquid",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVnNYUWgyeVVCbFR4UHRSdVdmNmsydzZnOEU1VTM1LTF5OXBPWktsUy1pZVBfc011Mm53MEd5RXBaMnIzamZvNEVWZWxfMDJIVExSR3YweDFNR1ExV3Q0dkJJYmlIZGo0ZU1oX2VTYVpEZnRNdHdpRzRub2UxVDQtdlhTTkptcWdaYXdkN0JKekZON1RsUS01ZWdxOFR4V2hY?oc=5",
-      "source": "FXEmpire",
-      "published_at": "Wed, 18 Mar 2026 13:39:00 GMT",
-      "is_new": true
-    },
-    {
       "title": "Il Bitcoin sfonda il limite inferiore del range mentre la pressione aumenta sotto i 71.000 dollari",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR1JDWVZDNHRVSzcxWkZRQWNHUzkyUG5qVnBRc2xweTJqT2xGRHREZ2xhekVNeVc4Z3FSbTJzNkVKUTd1b0VfZWRVTVpRVGRseDduUDRQc3h6NmtXTFpKYzBYUW9ITjNIYy1lYXN1d2hOWDkzWndhY2VxazFQUlZYamxhWjBIaUZBd1ZrN0M3dDZqMVVHbFBvZmhrQVpoV29rRHF1d1NtNFZERk42RXlaMVc0TDJUUE1OUDNyelhqT3FWMGxH?oc=5",
       "source": "Bitcoin.com News",
       "published_at": "Wed, 18 Mar 2026 17:34:04 GMT",
+      "is_new": true
+    },
+    {
+      "title": "Il Rialzo Crypto Rallenta con Ripple e Hyperliquid",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVnNYUWgyeVVCbFR4UHRSdVdmNmsydzZnOEU1VTM1LTF5OXBPWktsUy1pZVBfc011Mm53MEd5RXBaMnIzamZvNEVWZWxfMDJIVExSR3YweDFNR1ExV3Q0dkJJYmlIZGo0ZU1oX2VTYVpEZnRNdHdpRzRub2UxVDQtdlhTTkptcWdaYXdkN0JKekZON1RsUS01ZWdxOFR4V2hY?oc=5",
+      "source": "FXEmpire",
+      "published_at": "Wed, 18 Mar 2026 13:39:00 GMT",
       "is_new": true
     }
   ]
