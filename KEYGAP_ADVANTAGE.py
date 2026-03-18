@@ -168,27 +168,43 @@ def send_telegram(report, news):
     if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
         print("ℹ️ Telegram non configurato: skip invio.")
         return
+
     top_news = news.get("items", [])[:3]
-    lines = "\\n".join([f"• {n['title']}" for n in top_news]) if top_news else "• Nessuna news disponibile"
-    text = f"⚡ KEYGAP ELITE UPDATE\\n\\nBTC/EUR: {fmt_eur(report['price_eur'])}\\nBias: {report['bias']}\\nSupporto: {fmt_eur(report['support_eur'])}\\nResistenza: {fmt_eur(report['resistance_eur'])}\\n\\nTop news:\\n{lines}\\n\\nLettura rapida:\\n{report['quick_read']}\\n\\n🌐 Dashboard live:\\n{SITE_URL}"
+    lines = "\n".join([f"• {n['title']}" for n in top_news]) if top_news else "• Nessuna news disponibile"
+
+    price = fmt_eur(report["price_eur"])
+    support = fmt_eur(report["support_eur"])
+    resistance = fmt_eur(report["resistance_eur"])
+    change = report["change_24h_pct"]
+    bias = report["bias"]
+    updated = report["updated_at"]
+    quick = report["quick_read"]
+
+    text = (
+        f"⚡ KEYGAP ELITE UPDATE\n\n"
+        f"📅 Aggiornato: {updated}\n"
+        f"₿ BTC/EUR: {price}\n"
+        f"📈 Variazione 24h: {change}%\n"
+        f"🎯 Bias: {bias}\n"
+        f"🛡 Supporto: {support}\n"
+        f"🚀 Resistenza: {resistance}\n\n"
+        f"📰 Top news:\n{lines}\n\n"
+        f"🧠 Lettura rapida:\n{quick}\n\n"
+        f"🌐 Dashboard live:\n{SITE_URL}"
+    )
+
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
-    r = requests.post(url, data={"chat_id": TELEGRAM_CHAT_ID, "text": text}, timeout=20)
+    r = requests.post(
+        url,
+        data={
+            "chat_id": TELEGRAM_CHAT_ID,
+            "text": text,
+            "disable_web_page_preview": False
+        },
+        timeout=20
+    )
     r.raise_for_status()
     print("✅ Telegram inviato")
-
-def git_publish(report_id):
-    cmds = [["git","add","."],["git","commit","-m",f"Elite update {report_id}"],["git","push","origin","main"]]
-    for cmd in cmds:
-        res = subprocess.run(cmd, cwd=ROOT, capture_output=True, text=True)
-        if cmd[1] == "commit" and res.returncode != 0 and "nothing to commit" in (res.stdout + res.stderr).lower():
-            print("ℹ️ Nessuna modifica da committare")
-            continue
-        if res.returncode != 0:
-            print(res.stdout); print(res.stderr)
-            raise SystemExit(f"Errore comando: {' '.join(cmd)}")
-        if res.stdout.strip(): print(res.stdout.strip())
-        if res.stderr.strip(): print(res.stderr.strip())
-    print(f"✅ Update {report_id} pubblicato")
 
 def run_cycle():
     REPORTS_DIR.mkdir(exist_ok=True)
