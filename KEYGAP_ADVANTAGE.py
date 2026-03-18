@@ -349,44 +349,21 @@ def send_telegram(report, news):
     lines = "\n".join([f"• {n['title']}" for n in top_news]) if top_news else "• Nessuna news disponibile"
 
     text = (
-        "⚡ KEYGAP ELITE UPDATE\n\n"
-        f"📅 Aggiornato: {report['updated_at']}\n"
-        f"₿ BTC/EUR: {fmt_eur(report['price_eur'])}\n"
-        f"📈 Variazione 24h: {report['change_24h_pct']}%\n"
-        f"🎯 Bias: {report['bias']}\n"
-        f"🛡 Supporto: {fmt_eur(report['support_eur'])}\n"
-        f"🚀 Resistenza: {fmt_eur(report['resistance_eur'])}\n\n"
-        f"📰 Top news:\n{lines}\n\n"
-        f"🧠 Lettura rapida:\n{report['quick_read']}\n\n"
-        f"🌐 Dashboard live:\n{SITE_URL}"
+        "⚡ KEYGAP MARKET UPDATE\n\n"
+        f"BTC/EUR: {fmt_eur(report['price_eur'])}\n"
+        f"Bias operativo: {report['bias']}\n"
+        f"Supporto chiave: {fmt_eur(report['support_eur'])}\n"
+        f"Resistenza chiave: {fmt_eur(report['resistance_eur'])}\n"
+        f"Variazione 24h: {report['change_24h_pct']}%\n\n"
+        f"Top news del momento:\n{lines}\n\n"
+        f"Scenario rapido:\n{report['quick_read']}\n\n"
+        f"Apri dashboard:\n{SITE_URL}"
     )
 
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
-    r = requests.post(
-        url,
-        data={
-            "chat_id": TELEGRAM_CHAT_ID,
-            "text": text,
-            "disable_web_page_preview": False,
-        },
-        timeout=25,
-    )
+    r = requests.post(url, data={"chat_id": TELEGRAM_CHAT_ID, "text": text}, timeout=25)
     r.raise_for_status()
     print("✅ Telegram inviato")
-
-def git_publish(report_id):
-    cmds = [["git","add","."],["git","commit","-m",f"Elite update {report_id}"],["git","push","origin","main"]]
-    for cmd in cmds:
-        res = subprocess.run(cmd, cwd=ROOT, capture_output=True, text=True)
-        if cmd[1] == "commit" and res.returncode != 0 and "nothing to commit" in (res.stdout + res.stderr).lower():
-            print("ℹ️ Nessuna modifica da committare")
-            continue
-        if res.returncode != 0:
-            print(res.stdout); print(res.stderr)
-            raise SystemExit(f"Errore comando: {' '.join(cmd)}")
-        if res.stdout.strip(): print(res.stdout.strip())
-        if res.stderr.strip(): print(res.stderr.strip())
-    print(f"✅ Update {report_id} pubblicato")
 
 def run_cycle():
     REPORTS_DIR.mkdir(exist_ok=True)
