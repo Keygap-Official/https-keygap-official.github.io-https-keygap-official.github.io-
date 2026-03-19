@@ -1,5 +1,5 @@
 {
-  "updated_at": "19/03/2026 16:30:08",
+  "updated_at": "19/03/2026 16:49:58",
   "items": [
     {
       "title": "Bitcoin e banche: l’adozione istituzionale cambia il mercato",
@@ -21,6 +21,13 @@
       "source": "Investing.com",
       "published_at": "Thu, 19 Mar 2026 14:33:00 GMT",
       "is_new": false
+    },
+    {
+      "title": "Notizie sul Bitcoin: il Bitcoin scende a $70K mentre il picco del petrolio e la pausa della Fed innescano una vendita avversa al rischio",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aenpSc0VBQm83U3ZmcjlEd1JLM2g5TU9IOWdsQ3d3aFJqdG94V081M25LbVpncXVNUUVidHZmdmVJSDNIZ2dZc3IzU0ZId2NVOUVwaXRiWV9venlXV3UtRXN0U2s?oc=5",
+      "source": "Binance",
+      "published_at": "Thu, 19 Mar 2026 12:05:29 GMT",
+      "is_new": true
     },
     {
       "title": "Bitcoin e crypto in frenata: aumentano gli short – mercato ancora controllato dalla paura",
@@ -65,10 +72,10 @@
       "is_new": false
     },
     {
-      "title": "Paura per Bitcoin: le società quotate continuano a comprare, anche quelle presidenziali (o quasi)",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01MDVrYkNlck5FSW9CM1ZWNUlTcF9DQkNHM3hJVmQ3UElTOWNEd0pzeGxKUXBjcEk5NURZa1JPM3JCQnpMUUVUTkVNZmdIWVJKaW15eEtsdnpjNm5TM0RvM0RHdXNWRnRTbExZYUtVRm0?oc=5",
+      "title": "Crypto River sorprende al rialzo: +10% mentre il resto del mercato crolla",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZk15S2hjclR3QkhIcDZrX3JZVS01VWM2MlVWaFRES2xNSWdWNGQ3VndScVUwT3BESkQyUFlabllIRmtENkViSlF0ZkNVTzdFYklIM096b1doUm1xTDJHX1hVUGNDSkVlZWZMMkpDYWpINk1SbFdmTXRkb3RQc1Z3ZTVKVQ?oc=5",
       "source": "Criptovaluta.it",
-      "published_at": "Thu, 19 Mar 2026 14:26:00 GMT",
+      "published_at": "Thu, 19 Mar 2026 15:30:59 GMT",
       "is_new": true
     },
     {
@@ -77,13 +84,6 @@
       "source": "CoinDesk",
       "published_at": "Thu, 19 Mar 2026 07:00:00 GMT",
       "is_new": true
-    },
-    {
-      "title": "Bitcoin oggi: scivola sotto i 71.000$ mentre i trader riducono le scommesse sui tagli Fed",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYUx5SmMxZXY0UFhfZjFNTndON3JtUzdPU1JrdnpiZjZsbkpsTlhicnoxdkVDZW9ic1l4QS00WEhNc2owRmVOQ3Y4TTJ1Q1ZyM0NoVGpTbTAtVklRaFVmcnBvQnM5YzVHVjFTMnZ1V2dDSUM3cUxYa2VKMTE2MEN4YVFJMnJ5Yk42dG51R3ZmUHJHQzM3UVBERHZwb3FTMFdMLUtoYU5Qa1lveUo4SlpCcGM2ZC1fa2hZcVI4aHo0NlhkOG5UVHdYaVlnXzRkNy13SnE2UUR1Qy1WLWNS?oc=5",
-      "source": "Investing.com",
-      "published_at": "Thu, 19 Mar 2026 06:31:00 GMT",
-      "is_new": false
     }
   ]
 }
