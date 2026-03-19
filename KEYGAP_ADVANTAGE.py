@@ -487,4 +487,12 @@ def run_cycle():
 
 
 if __name__ == "__main__":
-    run_cycle()
+    import time
+    while True:
+        try:
+            run_cycle()
+        except Exception as e:
+            print(f"Errore nel ciclo: {e}")
+        
+        print("Attendo 30 minuti per il prossimo ciclo...")
+        time.sleep(1800)
