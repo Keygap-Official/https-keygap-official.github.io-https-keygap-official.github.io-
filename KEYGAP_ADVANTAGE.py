@@ -395,16 +395,38 @@ def send_telegram(report, news):
     top_news = news.get("items", [])[:3]
     lines = "\n".join([f"• {n['title']}" for n in top_news]) if top_news else "• Nessuna news disponibile"
 
+    # Dinamicità per non rendere i post noiosi
+    emojis = ["⚡", "🚀", "🔥", "⚠️", "📊", "🎯", "👁️"]
+    alert_icon = random.choice(emojis)
+
+    # Frasi contestuali in base al mercato
+    if "rialzista" in report['bias']:
+        mood = "📈 I tori stanno spingendo. Il mercato prova a forzare la resistenza."
+        tiktok_hook = f"Bitcoin in spinta verso l'alto a {fmt_eur(report['price_eur'])}! Riuscirà a rompere la resistenza?"
+    elif "ribassista" in report['bias']:
+        mood = "📉 Pressione in vendita. Fondamentale tenere i supporti per evitare crolli."
+        tiktok_hook = f"Attenzione al ribasso! Bitcoin scende a {fmt_eur(report['price_eur'])}. Ecco il supporto da difendere."
+    else:
+        mood = "⚖️ Fase di consolidamento. Volumi in attesa del prossimo strappo direzionale."
+        tiktok_hook = f"Calma piatta per Bitcoin a {fmt_eur(report['price_eur'])}. Preparatevi al prossimo grande movimento."
+
+    # Post Telegram + TikTok/Social in fondo
     text = (
-        "⚡ KEYGAP MARKET UPDATE\n\n"
-        f"BTC/EUR: {fmt_eur(report['price_eur'])}\n"
-        f"Bias operativo: {report['bias']}\n"
-        f"Supporto chiave: {fmt_eur(report['support_eur'])}\n"
-        f"Resistenza chiave: {fmt_eur(report['resistance_eur'])}\n"
-        f"Variazione 24h: {report['change_24h_pct']}%\n\n"
-        f"Top news del momento:\n{lines}\n\n"
-        f"Scenario rapido:\n{report['quick_read']}\n\n"
-        f"Apri dashboard:\n{SITE_URL}"
+        f"{alert_icon} KEYGAP ADVANTAGE | MARKET UPDATE\n\n"
+        f"💰 BTC/EUR Spot: {fmt_eur(report['price_eur'])}\n"
+        f"📊 Variazione 24h: {report['change_24h_pct']}%\n\n"
+        f"🎯 LIVELLI OPERATIVI:\n"
+        f"🛡️ Supporto: {fmt_eur(report['support_eur'])}\n"
+        f"⚔️ Resistenza: {fmt_eur(report['resistance_eur'])}\n"
+        f"Compass: {report['bias'].upper()}\n\n"
+        f"{mood}\n\n"
+        f"📰 TOP NEWS:\n"
+        f"{lines}\n\n"
+        f"🌐 Dashboard e Report Live:\n{SITE_URL}\n\n"
+        f"➖➖➖➖➖➖➖➖\n"
+        f"📱 FORMAT TIKTOK / SHORTS:\n"
+        f"{tiktok_hook} Entra nel terminale per il dossier live.\n"
+        f"#KeygapAdVantage #Bitcoin #CryptoITA #Trading #Mercati"
     )
 
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
