@@ -105,3 +105,11 @@ To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.
 To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
    9197c3643..b6a88a550  main -> main
 ✅ Update 17871 pubblicato
+ℹ️ Telegram non configurato: skip invio.
+ℹ️ Blogger non configurato: skip publish.
+[main 1cfa1fe6c] Elite update 14120
+ 6 files changed, 219 insertions(+), 26 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_19_03_2026_03_30.html
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   b6a88a550..1cfa1fe6c  main -> main
+✅ Update 14120 pubblicato
