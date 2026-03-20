@@ -1,6 +1,13 @@
 {
-  "updated_at": "20/03/2026 06:00:07",
+  "updated_at": "20/03/2026 06:30:02",
   "items": [
+    {
+      "title": "Notizie su Bitcoin: Morgan Stanley stabilisce il ticker MSBT e un capitale seed di 1 milione di dollari per l'ETF BTC",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMmdVZkFzVTRkU05DR3Z0QXJPdTlvdmtobi1CWHliWnJSR0ltNER4RHNFX3RqTHJ1TFlTbVBkVGphY1h0SGVuUUo3TzRxVDZBWDZudk9SZDg5a19nRVZsNkQ2Vzd6RldXYXo1NTVNaTdWZm5JUXVrTDFtLVpScmRiMWl4dmU3cDJpMEtNYkJYZXNDVUt0Nk04cVFhMzlBM0ZrSER1MmotODhYdHo3QWJ1cWc2Q3VrLVN4Q0tCNkFwNVR5UQ?oc=5",
+      "source": "CoinDesk",
+      "published_at": "Thu, 19 Mar 2026 21:05:00 GMT",
+      "is_new": true
+    },
     {
       "title": "Mc2 Saint Barth Maglia da uomo girocollo con stampa jacquard Crypto Ducky | EDIZIONE SPECIALE CRYPTO PUPPETS In Vendita | Abbigliamento",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VbHlwM1VPMXRwVGRjcVdiYko3UDNWRV9zMHVJTGtES0tfVTE1b2JoZ1VVMU40QzBrOXdjczF0VjJDQVU5TGxZSFVYYlpmZUp2SWpzeEtaTTlndWVoei16S3Rn?oc=5",
@@ -9,24 +16,17 @@
       "is_new": false
     },
     {
-      "title": "Notizie sul prezzo di Bitcoin (BTC): Mantenere la \"polvere secca\" mentre i prezzi oscillano, afferma un analista",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdnZzRmFsQVBjT19sOF9Sc0FPMGZGLXhnUUI4VEE2a1FkQTNOOGJVSHkwZDNyb3k1Y1FJaEhVNUhiNFdLLXc0OUMzbVQwakFQS3hKVmNSNk1FU1UxaVU5dE9qbHVSV1JXendKeVNPRGVYbU1tZGxuRmt4X3dqM3Vuakl4SFUydjJ1RENSNjZicXBLNXNQTE5fSnNMWTlKcDZnWlJCM2hBTWdFZFpzakZXWEF1ODdmN3BQTk96QTI5QzdraE5EMVV2aGlQMjY?oc=5",
-      "source": "CoinDesk",
-      "published_at": "Thu, 19 Mar 2026 10:17:00 GMT",
-      "is_new": false
+      "title": "Crypto, prezzi, grafici e dati in tempo reale | Bitget | P900",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GbnNQQUw2OFY2TmtqdnVvSUF1R1JDLW9PeWtZSFpHUWFIbDZKMjcwTnZ0YTFFUnF0NHJiVW5yMGpuYlZNeDdOTEllXzlWZ2ZQM3c?oc=5",
+      "source": "Bitget",
+      "published_at": "Fri, 20 Mar 2026 02:45:06 GMT",
+      "is_new": true
     },
     {
       "title": "Crypto.com Riduce del 12% la Forza Lavoro mentre Passa a una Strategia AI-First",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hWTJ0RW01U3B5a1otUUtpY1ZCTHd0elV2TzM0R0dMcDYzcXQ0Uk0yMlJZelJENkF4d3ctTnh2UVJObk85cmhzXzdiaVBQTFNFVks3NDRaMktqNjY1amotRzh6dm8?oc=5",
       "source": "Binance",
       "published_at": "Thu, 19 Mar 2026 15:55:08 GMT",
-      "is_new": false
-    },
-    {
-      "title": "Bitcoin ($): resistenza a quota 76.000$",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS1lSU2ZlcFhfOGowR2hiVVhfUGQwRmltTEgzUGwxcmcwdWJ0dU1oNFRuYVUzcnN1R0JYNGNlNXpXbW9OVE45TlRjc3ZMZk9fbC10dk5sMWZERC1nY21MbXgyT3I4b1lVQzc5ZFZEODNDY0k3QXFBOTRHbVNqSFg5Q2tvVkNnYlJrRXFkRXdqMjd1Q1V3Nm1wQmc2b3J3M3JlekJZVg?oc=5",
-      "source": "Milano Finanza",
-      "published_at": "Thu, 19 Mar 2026 07:05:00 GMT",
       "is_new": false
     },
     {
@@ -44,6 +44,13 @@
       "is_new": false
     },
     {
+      "title": "Bitcoin ($): resistenza a quota 76.000$",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS1lSU2ZlcFhfOGowR2hiVVhfUGQwRmltTEgzUGwxcmcwdWJ0dU1oNFRuYVUzcnN1R0JYNGNlNXpXbW9OVE45TlRjc3ZMZk9fbC10dk5sMWZERC1nY21MbXgyT3I4b1lVQzc5ZFZEODNDY0k3QXFBOTRHbVNqSFg5Q2tvVkNnYlJrRXFkRXdqMjd1Q1V3Nm1wQmc2b3J3M3JlekJZVg?oc=5",
+      "source": "Milano Finanza",
+      "published_at": "Thu, 19 Mar 2026 07:05:00 GMT",
+      "is_new": false
+    },
+    {
       "title": "Il mistero all’origine di Bitcoin: chi è davvero Satoshi Nakamoto?",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTWZrTmVGVkw3NHMwNlhoa0pidDN6TERyTzE1bi14R21qS0xVOHFxOVBMa3E5VUxvZzF4YVBXNUpYdjlObXZRU1oxTmtzcDBpSnNHNTQxXzd5ZmZCazhySFJOUkNobzl1cVRkdmpQZlZyM3BZcmRienBaeTM1M05mYUgxUTFPS3BVNUtnbFZyVHRSUTFMb0YyM2FHdDlVWU0zSnkwb08wcw?oc=5",
       "source": "Conio Blog",
@@ -58,10 +65,10 @@
       "is_new": false
     },
     {
-      "title": "Il Crypto Clarity Act avanza verso l'audizione al Senato mentre i legislatori valutano scambi legislativi",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQenl2eVQydzIzdkI4ZEdKTmlBN1JYMUlNR3I1ZTB4MmpSRnpZbGxLR1p4VHJIRFdOMFZUakI3eGhxMnlpSkFHbnBEU1FZTk9LZnRLdm5oTDV0dGtzQ09QbGtHdUZ4cUxnUXFnR2VvNEU5OG1lOGppR29sTklwWDA2YWJtdElqODROOFZhV0xIRVdDNTFkYkVrVnNCSjdvVVdENWNjbjhJY1FFRDl1UUFnV2dqUHFrakJZN3kzRnBmQmFEY1h2LWpmVHF4dw?oc=5",
+      "title": "Notizie sul prezzo di Bitcoin (BTC): Mantenere la \"polvere secca\" mentre i prezzi oscillano, afferma un analista",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdnZzRmFsQVBjT19sOF9Sc0FPMGZGLXhnUUI4VEE2a1FkQTNOOGJVSHkwZDNyb3k1Y1FJaEhVNUhiNFdLLXc0OUMzbVQwakFQS3hKVmNSNk1FU1UxaVU5dE9qbHVSV1JXendKeVNPRGVYbU1tZGxuRmt4X3dqM3Vuakl4SFUydjJ1RENSNjZicXBLNXNQTE5fSnNMWTlKcDZnWlJCM2hBTWdFZFpzakZXWEF1ODdmN3BQTk96QTI5QzdraE5EMVV2aGlQMjY?oc=5",
       "source": "CoinDesk",
-      "published_at": "Thu, 19 Mar 2026 14:10:00 GMT",
+      "published_at": "Thu, 19 Mar 2026 10:17:00 GMT",
       "is_new": false
     },
     {
@@ -77,13 +84,6 @@
       "source": "Investing.com",
       "published_at": "Thu, 19 Mar 2026 20:58:00 GMT",
       "is_new": true
-    },
-    {
-      "title": "Notizie sul Bitcoin: il Bitcoin scende a $70K mentre il picco del petrolio e la pausa della Fed innescano una vendita avversa al rischio",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aenpSc0VBQm83U3ZmcjlEd1JLM2g5TU9IOWdsQ3d3aFJqdG94V081M25LbVpncXVNUUVidHZmdmVJSDNIZ2dZc3IzU0ZId2NVOUVwaXRiWV9venlXV3UtRXN0U2s?oc=5",
-      "source": "Binance",
-      "published_at": "Thu, 19 Mar 2026 12:05:29 GMT",
-      "is_new": false
     }
   ]
 }
