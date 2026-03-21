@@ -1,5 +1,5 @@
 {
-  "updated_at": "21/03/2026 16:00:07",
+  "updated_at": "21/03/2026 16:30:03",
   "items": [
     {
       "title": "Analista elenca 6 elementi chiave della struttura emergente del mercato Bitcoin",
@@ -72,18 +72,18 @@
       "is_new": false
     },
     {
-      "title": "La nuova febbre delle scommesse cripto da 5 minuti",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSXpvMDdNWHhRbGRGUDJRQ2ZDX0VrOGxsTXo5N1RZZm9BLXlySVROTFhRdDBvOUtGRERNZmliWkF6RFJ5LVhVUkdiVW1MQkZIaWE4OFljZFNyX3FRUmNsRFQtVXI2emdBbmdDNEJxS2UzWFUwdkFpaUEyMWIwREtOVVNEbEVGdmNPeTA1OGNSYmZjLXNja0E?oc=5",
-      "source": "Money.it",
-      "published_at": "Sat, 21 Mar 2026 06:26:00 GMT",
-      "is_new": true
-    },
-    {
       "title": "Prezzo Bitcoin USD | Indice di prezzo BtcUSD, grafici dal vivo e capitalizzazione di mercato USD",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwMFV4UTdFU1F3alhLNzlvOFFmbE91aFFKT1NTNG9aWjVJVEE2T2I3UU0ycFYyM20tZVU2WU1rNHBPVmc0bjBBLVdrTHpxLVZyZ2RkS0dNYTNGWnM?oc=5",
       "source": "OKX",
       "published_at": "Sat, 21 Mar 2026 03:00:53 GMT",
       "is_new": false
+    },
+    {
+      "title": "La nuova febbre delle scommesse cripto da 5 minuti",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSXpvMDdNWHhRbGRGUDJRQ2ZDX0VrOGxsTXo5N1RZZm9BLXlySVROTFhRdDBvOUtGRERNZmliWkF6RFJ5LVhVUkdiVW1MQkZIaWE4OFljZFNyX3FRUmNsRFQtVXI2emdBbmdDNEJxS2UzWFUwdkFpaUEyMWIwREtOVVNEbEVGdmNPeTA1OGNSYmZjLXNja0E?oc=5",
+      "source": "Money.it",
+      "published_at": "Sat, 21 Mar 2026 06:26:00 GMT",
+      "is_new": true
     }
   ]
 }
