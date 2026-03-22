@@ -1,5 +1,5 @@
 {
-  "updated_at": "22/03/2026 09:02:22",
+  "updated_at": "22/03/2026 09:30:02",
   "items": [
     {
       "title": "I miner di Bitcoin stanno perdendo 19.000$ su ogni BTC prodotto a causa di un calo della difficoltà del 7,8%",
@@ -30,17 +30,17 @@
       "is_new": false
     },
     {
-      "title": "Analista elenca 6 elementi chiave della struttura emergente del mercato Bitcoin",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOERBc3phOUUtcFRSc0JPOUZfalJXVnJrdTJlTlhicEQ2WU41Vmp6Y2hkR3VnVzBUQ2dWbUtSdUdqNzI5ZVlkRWloTGNuNmNJVU0tQ0s0V3JvSy1rTkRNQlpBdGJUSDItWi1RY3VOMHJiTkxNRXhkTmFGdC10WWk1dXhSTHNSUGJiOU5hSnU4MDl3MThfQTZqMXJacXpqRVBPLVhQZmF5ckxka2F3ZWlLU3NhdVB4bExDTVhueFk5b2J4NTZtY0EtYTBoc1ppMlhTYWlz?oc=5",
-      "source": "Investing.com",
-      "published_at": "Sat, 21 Mar 2026 13:26:00 GMT",
-      "is_new": false
-    },
-    {
       "title": "Approfondimenti di Trader Rai(@Trader_Rai)",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1M0tpdVdIdUUwdFhubktUa1o5b2VJMW9rS0RQbkpmd3ROSTY2Vm5WcVNadlljQVRmblcwQll1N1FzbWwwUDFRdUVqTzhGeXp3MHUtTmozVmJVczJlYzVJYXV5X3Q?oc=5",
       "source": "Binance",
       "published_at": "Sat, 21 Mar 2026 21:07:08 GMT",
+      "is_new": false
+    },
+    {
+      "title": "Analista elenca 6 elementi chiave della struttura emergente del mercato Bitcoin",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOERBc3phOUUtcFRSc0JPOUZfalJXVnJrdTJlTlhicEQ2WU41Vmp6Y2hkR3VnVzBUQ2dWbUtSdUdqNzI5ZVlkRWloTGNuNmNJVU0tQ0s0V3JvSy1rTkRNQlpBdGJUSDItWi1RY3VOMHJiTkxNRXhkTmFGdC10WWk1dXhSTHNSUGJiOU5hSnU4MDl3MThfQTZqMXJacXpqRVBPLVhQZmF5ckxka2F3ZWlLU3NhdVB4bExDTVhueFk5b2J4NTZtY0EtYTBoc1ppMlhTYWlz?oc=5",
+      "source": "Investing.com",
+      "published_at": "Sat, 21 Mar 2026 13:26:00 GMT",
       "is_new": false
     },
     {
@@ -49,6 +49,13 @@
       "source": "BeInCrypto",
       "published_at": "Sat, 21 Mar 2026 16:54:00 GMT",
       "is_new": false
+    },
+    {
+      "title": "Ethereum crolla in notturna: Donald Trump spaventa crypto, ETH al test più pericoloso",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNEtNMFdBS19veG9qQXdLRThxVWRXZUxUSlByU3VkaG9kN2FPa0taSWdpcWtMdGVlbUItc0pvek5SVVJ5U3BORnI1ZkZYaHRtNENTT0NXQnRFQjE5cGVzckFNMzBfeFRFYWJTUHlocktHeHhIRGJTMWZzWFFISnp5X2Q4YTF5WGNKSW5Z?oc=5",
+      "source": "Criptovaluta.it",
+      "published_at": "Sun, 22 Mar 2026 08:26:00 GMT",
+      "is_new": true
     },
     {
       "title": "Prezzo XRP: il token legato a Ripple scende del 3% mentre la debolezza del bitcoin limita il recupero",
@@ -63,13 +70,6 @@
       "source": "Bitcoin.com News",
       "published_at": "Sun, 22 Mar 2026 03:45:40 GMT",
       "is_new": true
-    },
-    {
-      "title": "Accordo storico per le crypto: i senatori USA hanno una bozza sui rendimenti da stablecoin",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc3J2bkltS2dBNk1MakhHSEtXcDhZb01OclBJZmd0NkhySWJ5ZE5pYlRPRzdoZVNMUTJ2a1pMVzNUUUY4QUJ0d05TQWpVRUhHaUNyNEpWX0RtNExhV2JUTXE1WkdLX0hJUUdfaGNWVnBQeHFaRjFJdE8zdUtYTjd0aFdyMERzdWhY?oc=5",
-      "source": "Criptovaluta.it",
-      "published_at": "Sat, 21 Mar 2026 15:00:00 GMT",
-      "is_new": false
     },
     {
       "title": "Morgan Stanley Suggerisce un'Allocazione di Bitcoin Fino al 4%",
