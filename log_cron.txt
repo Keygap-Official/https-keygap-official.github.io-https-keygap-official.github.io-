@@ -6315,3 +6315,176 @@ Attendo 30 minuti per il prossimo ciclo...
 Errore nel ciclo: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/markets?vs_currency=eur&ids=bitcoin&price_change_percentage=24h
 Attendo 30 minuti per il prossimo ciclo...
 Errore nel ciclo: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/markets?vs_currency=eur&ids=bitcoin&price_change_percentage=24h
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main 0f6023ab3] Elite update 53406
+ 7 files changed, 269 insertions(+), 48 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_21_03_2026_22_30.html
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   7e15979ad..0f6023ab3  main -> main
+✅ Update 53406 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main c59bd78d5] Elite update 59346
+ 4 files changed, 10 insertions(+), 10 deletions(-)
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   d34a9cfb4..c59bd78d5  main -> main
+✅ Update 59346 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main 217de7ebe] Elite update 82172
+ 4 files changed, 9 insertions(+), 9 deletions(-)
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   249fdc1b1..217de7ebe  main -> main
+✅ Update 82172 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+Errore nel ciclo: HTTPSConnectionPool(host='api.coingecko.com', port=443): Read timed out. (read timeout=20)
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main 88771def6] Elite update 50996
+ 6 files changed, 315 insertions(+), 19 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_22_03_2026_00_31.html
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   dde1da54f..88771def6  main -> main
+✅ Update 50996 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main c9fed7738] Elite update 69356
+ 6 files changed, 330 insertions(+), 19 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_22_03_2026_01_01.html
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   b8bc8243e..c9fed7738  main -> main
+✅ Update 69356 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main ac51418bf] Elite update 85904
+ 5 files changed, 140 insertions(+), 12 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_22_03_2026_01_31.html
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   f736357d6..ac51418bf  main -> main
+✅ Update 85904 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main f4047884a] Elite update 10408
+ 6 files changed, 327 insertions(+), 12 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_22_03_2026_02_01.html
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   c310813f9..f4047884a  main -> main
+✅ Update 10408 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main ae31673a8] Elite update 47893
+ 6 files changed, 237 insertions(+), 12 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_22_03_2026_02_31.html
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   81a75f760..ae31673a8  main -> main
+✅ Update 47893 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main 6f32239cd] Elite update 86889
+ 6 files changed, 230 insertions(+), 12 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_22_03_2026_03_01.html
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   63ceb2bf1..6f32239cd  main -> main
+✅ Update 86889 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main b92df9edd] Elite update 91660
+ 6 files changed, 301 insertions(+), 17 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_22_03_2026_03_31.html
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   b7f326e1d..b92df9edd  main -> main
+✅ Update 91660 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main 46376ab69] Elite update 10704
+ 6 files changed, 314 insertions(+), 17 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_22_03_2026_04_01.html
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   2913cbb7b..46376ab69  main -> main
+✅ Update 10704 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main a0c35e239] Elite update 10519
+ 6 files changed, 310 insertions(+), 13 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_22_03_2026_04_31.html
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   eb5b820e2..a0c35e239  main -> main
+✅ Update 10519 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main def484c06] Elite update 41480
+ 6 files changed, 237 insertions(+), 17 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_22_03_2026_05_01.html
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   b5af2fbc1..def484c06  main -> main
+✅ Update 41480 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main b31a6c5b3] Elite update 63367
+ 6 files changed, 483 insertions(+), 17 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_22_03_2026_05_32.html
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   4c0764370..b31a6c5b3  main -> main
+✅ Update 63367 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main 01a123e5e] Elite update 48191
+ 6 files changed, 312 insertions(+), 17 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_22_03_2026_06_02.html
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   7100f3df8..01a123e5e  main -> main
+✅ Update 48191 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main 4d0ac3bd7] Elite update 84967
+ 6 files changed, 222 insertions(+), 17 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_22_03_2026_06_32.html
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   b5a237206..4d0ac3bd7  main -> main
+✅ Update 84967 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main 8d540447d] Elite update 44326
+ 5 files changed, 136 insertions(+), 8 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_22_03_2026_07_02.html
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   858913b01..8d540447d  main -> main
+✅ Update 44326 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main fb2387562] Elite update 32712
+ 5 files changed, 140 insertions(+), 12 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_22_03_2026_07_32.html
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   d14fa1316..fb2387562  main -> main
+✅ Update 32712 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main 457f6bfd0] Elite update 72795
+ 5 files changed, 140 insertions(+), 12 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_22_03_2026_08_02.html
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   e5c677db3..457f6bfd0  main -> main
+✅ Update 72795 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
