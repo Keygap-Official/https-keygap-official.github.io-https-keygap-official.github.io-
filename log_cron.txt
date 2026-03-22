@@ -8115,3 +8115,187 @@ Errore nel ciclo: 429 Client Error: Too Many Requests for url: https://api.coing
 Attendo 30 minuti per il prossimo ciclo...
 Errore nel ciclo: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/markets?vs_currency=eur&ids=bitcoin&price_change_percentage=24h
 Attendo 30 minuti per il prossimo ciclo...
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   ac51418bf..1018a59a8  main -> main
+✅ Update 66515 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main ad8d95e32] Elite update 64618
+ 4 files changed, 9 insertions(+), 9 deletions(-)
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   f4047884a..ad8d95e32  main -> main
+✅ Update 64618 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main b3a9db60f] Elite update 27909
+ 4 files changed, 9 insertions(+), 9 deletions(-)
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   ae31673a8..b3a9db60f  main -> main
+✅ Update 27909 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main 3d2ee62a7] Elite update 41789
+ 5 files changed, 136 insertions(+), 8 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_22_03_2026_03_02.html
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   6f32239cd..3d2ee62a7  main -> main
+✅ Update 41789 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main da69e9b5d] Elite update 49506
+ 5 files changed, 136 insertions(+), 8 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_22_03_2026_03_32.html
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   b92df9edd..da69e9b5d  main -> main
+✅ Update 49506 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main 7bf48aa1a] Elite update 24561
+ 5 files changed, 136 insertions(+), 8 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_22_03_2026_04_02.html
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   46376ab69..7bf48aa1a  main -> main
+✅ Update 24561 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main 23fc85cbb] Elite update 48628
+ 5 files changed, 136 insertions(+), 8 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_22_03_2026_04_32.html
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   a0c35e239..23fc85cbb  main -> main
+✅ Update 48628 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main e471466f9] Elite update 55908
+ 5 files changed, 136 insertions(+), 8 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_22_03_2026_05_02.html
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   def484c06..e471466f9  main -> main
+✅ Update 55908 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main d5cd36dfb] Elite update 36324
+ 4 files changed, 9 insertions(+), 9 deletions(-)
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   b31a6c5b3..d5cd36dfb  main -> main
+✅ Update 36324 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main 9e3783ca6] Elite update 74841
+ 4 files changed, 9 insertions(+), 9 deletions(-)
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   01a123e5e..9e3783ca6  main -> main
+✅ Update 74841 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main 93d0af0ba] Elite update 83058
+ 4 files changed, 9 insertions(+), 9 deletions(-)
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   4d0ac3bd7..93d0af0ba  main -> main
+✅ Update 83058 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main 6992ea867] Elite update 85039
+ 4 files changed, 23 insertions(+), 23 deletions(-)
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   8d540447d..6992ea867  main -> main
+✅ Update 85039 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main b7ab1925c] Elite update 73657
+ 4 files changed, 23 insertions(+), 23 deletions(-)
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   fb2387562..b7ab1925c  main -> main
+✅ Update 73657 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main 6bfd67194] Elite update 82882
+ 4 files changed, 23 insertions(+), 23 deletions(-)
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   457f6bfd0..6bfd67194  main -> main
+✅ Update 82882 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main 34b66605f] Elite update 24892
+ 5 files changed, 196 insertions(+), 23 deletions(-)
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   fa86021e0..34b66605f  main -> main
+✅ Update 24892 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main f9e0e7d55] Elite update 58724
+ 4 files changed, 12 insertions(+), 12 deletions(-)
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   caa524bca..f9e0e7d55  main -> main
+✅ Update 58724 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main c4d405d4c] Elite update 37018
+ 4 files changed, 16 insertions(+), 16 deletions(-)
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   81eb236ec..c4d405d4c  main -> main
+✅ Update 37018 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main a106a8c88] Elite update 92106
+ 4 files changed, 15 insertions(+), 15 deletions(-)
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   1a604d458..a106a8c88  main -> main
+✅ Update 92106 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main 42ad0002f] Elite update 13178
+ 4 files changed, 9 insertions(+), 9 deletions(-)
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   f3986c05a..42ad0002f  main -> main
+✅ Update 13178 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main cefeb85ae] Elite update 13980
+ 4 files changed, 16 insertions(+), 16 deletions(-)
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   7f16cd247..cefeb85ae  main -> main
+✅ Update 13980 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main f70713daf] Elite update 30579
+ 4 files changed, 11 insertions(+), 11 deletions(-)
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   b8aa2e153..f70713daf  main -> main
+✅ Update 30579 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main 95fce1f7b] Elite update 92584
+ 4 files changed, 9 insertions(+), 9 deletions(-)
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   aa36c4e98..95fce1f7b  main -> main
+✅ Update 92584 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main 5095420f5] Elite update 61314
+ 4 files changed, 10 insertions(+), 10 deletions(-)
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   88faff526..5095420f5  main -> main
+✅ Update 61314 pubblicato
