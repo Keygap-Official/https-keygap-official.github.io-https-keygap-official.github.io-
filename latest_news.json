@@ -1,5 +1,5 @@
 {
-  "updated_at": "23/03/2026 04:30:08",
+  "updated_at": "23/03/2026 05:00:02",
   "items": [
     {
       "title": "Bitcoin scende sotto i 69.200$ mentre Trump dà un ultimatum di 48 ore alle centrali elettriche iraniane",
@@ -14,6 +14,13 @@
       "source": "Investireoggi -",
       "published_at": "Sun, 22 Mar 2026 20:28:09 GMT",
       "is_new": false
+    },
+    {
+      "title": "Crypto, prezzi, grafici e dati in tempo reale | Bitget | P904",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95bk9EN2FBb014dGFCWTY0Zy03NkxlTjV0b21xbFJ4Sy0zdWRVc1N6bHUwbU1wc3pJV2wtVFdwNnMtVmQ3aV9JRnBoWXpiNmw4cGc?oc=5",
+      "source": "Bitget",
+      "published_at": "Mon, 23 Mar 2026 02:38:58 GMT",
+      "is_new": true
     },
     {
       "title": "L’oro tradisce e Bitcoin resiste: i rendimenti USA spaventano i mercati [Analisi]",
@@ -37,11 +44,18 @@
       "is_new": false
     },
     {
-      "title": "Bitcoin crolla in poche ore dopo la minaccia di Trump alle centrali elettriche iraniane",
+      "title": "Approfondimenti di Crypto Universe official(@CryptoUnivrse)",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10N0dwaWZPR1I3aGpQSWpLRXE3Q0tDY2pSZlRIUVdHazNDcTh0ZDVIV0hUbjdMY3lTTVlZTVpYY0hVWUZSVW1GN2ZiVzFXbEtmSkFQNDlYU1VjbnlvWV91Umo5REs?oc=5",
+      "source": "Binance",
+      "published_at": "Sun, 22 Mar 2026 07:46:57 GMT",
+      "is_new": false
+    },
+    {
+      "title": "Bitcoin crolla in poche ore dopo che Trump minaccia le centrali elettriche iraniane",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaDNQeXJ0VnVsQTlrUUtZWkVEbW1TeFpRcWQ5LTBqT2I0VDZPOGFpVDlseHZlcnY2RV9HRldjYXZHRE1yeGtRVTVnWENuUjI1YzM1M3FRZmdjMzBCWFBBYXo4SmI3eTRwVFNvTHBxY2hOaFA3MVRHbVI0SGV1dGRYb0h4X3N6QnNFNWcwMEZEMjJmWkJBOGIwcVJrSjE5amtOMnhGRURKYjFFRmJMRHdhZm40NHg?oc=5",
       "source": "Yellow.com",
-      "published_at": "Sun, 22 Mar 2026 06:56:35 GMT",
-      "is_new": false
+      "published_at": "Sun, 22 Mar 2026 08:53:48 GMT",
+      "is_new": true
     },
     {
       "title": "Metaplanet costituisce nuovo venture capital e amplia piano d'azione su Bitcoin",
@@ -70,20 +84,6 @@
       "source": "BeInCrypto",
       "published_at": "Sun, 22 Mar 2026 20:34:00 GMT",
       "is_new": true
-    },
-    {
-      "title": "CoinDCX nega qualsiasi coinvolgimento in frodi, mentre i fondatori sono citati in un'indagine in India",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdmlJWXlWdzN3WFB0U1RyQ2VQQWRZMFF4T1lpWndwM3NEa1RfcXRrOWFrUnBHRlJ3LU1LeF9CaWk5NW9VcUQ2ZGo5V3d6aHNzYmtnUTZBTjFZOHB3d0QtVmppNG1zNlJqMVQ3VU9XeWF3b1BmZHZWTFpETFQ2RTgtYlFCeUZnTExrZjlqeG93eUdzcFphdmthbF9BZTNlYXliQVhNbldQSGRrVkhlTENvS2lVRkVHdl9hU3VDWTVERzRaa3gzWDhnUGpB?oc=5",
-      "source": "Bitcoin.com News",
-      "published_at": "Sun, 22 Mar 2026 15:48:12 GMT",
-      "is_new": true
-    },
-    {
-      "title": "Approfondimenti di Crypto Universe official(@CryptoUnivrse)",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10N0dwaWZPR1I3aGpQSWpLRXE3Q0tDY2pSZlRIUVdHazNDcTh0ZDVIV0hUbjdMY3lTTVlZTVpYY0hVWUZSVW1GN2ZiVzFXbEtmSkFQNDlYU1VjbnlvWV91Umo5REs?oc=5",
-      "source": "Binance",
-      "published_at": "Sun, 22 Mar 2026 07:46:57 GMT",
-      "is_new": false
     }
   ]
 }
