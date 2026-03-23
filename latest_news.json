@@ -1,5 +1,5 @@
 {
-  "updated_at": "23/03/2026 04:00:07",
+  "updated_at": "23/03/2026 04:30:02",
   "items": [
     {
       "title": "Bitcoin scende sotto i 69.200$ mentre Trump dà un ultimatum di 48 ore alle centrali elettriche iraniane",
@@ -20,13 +20,6 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMEl0d1NFczJsNzNlTjhtVmdBSmozRmlyRnN5VlhEaUYwSFQ5dTUyVFpfYVdZVmdlcm1jcjg2d2xWOVhpRFlxZEhJb0JFOWpFZHRud1htS1ljZlJiVWQ5amZURUJLYWpWcW1kZ0U0TUstUlFMQS1BaVhUcnhtSnYxX2xvekh5WWZzaVZFU3VZM3RFU2I0aUpiYTVQTks?oc=5",
       "source": "Criptovaluta.it",
       "published_at": "Sun, 22 Mar 2026 11:21:41 GMT",
-      "is_new": false
-    },
-    {
-      "title": "Approfondimenti di Bit Bull(@BitTycoonPro)",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3Q2FEc2JYRlFCMzBtOS1HSndoTUJJMkpJRmF3OXhrTnpzUzlkRlVsQjd4QTBRTThaWVllS1RnMFRMYW1BX1lFTEhKSVJrS0R2ZlhUdkdLUm1nUUlfdHpibFBPNGVSM1UwWFBkaVk0R1ZFb19NRi1r?oc=5",
-      "source": "Binance",
-      "published_at": "Sun, 22 Mar 2026 13:56:07 GMT",
       "is_new": false
     },
     {
@@ -84,6 +77,13 @@
       "source": "Bitcoin.com News",
       "published_at": "Sun, 22 Mar 2026 15:48:12 GMT",
       "is_new": true
+    },
+    {
+      "title": "Approfondimenti di Crypto Universe official(@CryptoUnivrse)",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10N0dwaWZPR1I3aGpQSWpLRXE3Q0tDY2pSZlRIUVdHazNDcTh0ZDVIV0hUbjdMY3lTTVlZTVpYY0hVWUZSVW1GN2ZiVzFXbEtmSkFQNDlYU1VjbnlvWV91Umo5REs?oc=5",
+      "source": "Binance",
+      "published_at": "Sun, 22 Mar 2026 07:46:57 GMT",
+      "is_new": false
     }
   ]
 }
