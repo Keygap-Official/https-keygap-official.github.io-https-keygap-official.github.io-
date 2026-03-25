@@ -1,14 +1,14 @@
 {
-  "id": 15572,
-  "updated_at": "25/03/2026 14:30:07",
-  "price_eur": 61779.0,
-  "change_24h_pct": 1.3,
-  "high_24h_eur": 61980.0,
+  "id": 30058,
+  "updated_at": "25/03/2026 15:00:02",
+  "price_eur": 61892.0,
+  "change_24h_pct": 2.04,
+  "high_24h_eur": 62025.0,
   "low_24h_eur": 59622.0,
-  "support_eur": 61189.5,
-  "resistance_eur": 62368.5,
+  "support_eur": 61291.25,
+  "resistance_eur": 62492.75,
   "bias": "moderatamente rialzista",
   "volatility": "media",
-  "quick_read": "Prezzo in equilibrio nel breve. € 61.190 resta il supporto da difendere, mentre € 62.368 è la prima resistenza utile per un'accelerazione.",
-  "latest_report_file": "Report_Finanziari/Report_Mondiale_25_03_2026_14_30.html"
+  "quick_read": "Prezzo in equilibrio nel breve. € 61.291 resta il supporto da difendere, mentre € 62.493 è la prima resistenza utile per un'accelerazione.",
+  "latest_report_file": "Report_Finanziari/Report_Mondiale_25_03_2026_15_00.html"
 }
