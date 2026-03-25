@@ -1,5 +1,5 @@
 {
-  "updated_at": "25/03/2026 06:30:06",
+  "updated_at": "25/03/2026 06:56:56",
   "items": [
     {
       "title": "Notizie Prezzo Bitcoin: Breakout Fallito a $71.000 Preannuncia Un Forte Calo",
@@ -7,6 +7,13 @@
       "source": "FXEmpire",
       "published_at": "Tue, 24 Mar 2026 19:48:00 GMT",
       "is_new": false
+    },
+    {
+      "title": "Bitcoin si stabilizza sopra i 71.000 dollari mentre il petrolio scende sotto i 100 dollari dopo che gli Stati Uniti propongono un piano di pace in 15 punti per l'Iran",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMGNuQ1VHZGZ2NVhzZXZ5QVItdGdhaU1SVEM5U2IxY0hYdHBMaE9CSUpEMkJENHBLeGlTS2c4dF9hZlNjWlp3UTdMalI0UVd4NnlKR2NGNVMycUt6MEEtXzZuSldOMDh0OVN3dHhzMldGZnF4cnZiWFBCSUg3LWIwZFBWQURxVnlONllQdWNybmZDQXQ5djJ4T0tyOGMwRmF4cWdLWVZ4MXZSeEQwOG9RRmhqQzM1T1BCM2NqZmpCMkxEMlFRcV95a1lsRlhtY1B3QkduWEhZcEljQQ?oc=5",
+      "source": "CoinDesk",
+      "published_at": "Tue, 24 Mar 2026 21:36:00 GMT",
+      "is_new": true
     },
     {
       "title": "Mastercard lancia il nuovo Crypto Partner Program",
@@ -30,13 +37,6 @@
       "is_new": false
     },
     {
-      "title": "Bitcoin ($): un veloce balzo in avanti",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWUppR0NxVzcwa1hGNkk1TXU2ZEtNcGxMY28xbjdIN19RWTlJbDdWSkJPLWdXQzFHNWZmRkNPNWdoaGd5NXZpMUdPUTVKY2xOUVFENzZuS3NrZTZhOGdUOVpUc2J2Q2ZEN2xQT1BtcDBscjh4Z3VmM054WE1raWlLdnh6RVA3OW1vVm5iY2FjV05XLXRSZ25iai1EOHlRSjJvUXMydA?oc=5",
-      "source": "Milano Finanza",
-      "published_at": "Tue, 24 Mar 2026 06:55:00 GMT",
-      "is_new": false
-    },
-    {
       "title": "Bitcoin non è il problema: è il rally del petrolio a spingere BTC verso il supporto [Analisi]",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUC1VbGh1NnhsdmVmR05QMDhkeVhZMkJNNXRWSHJ0MHkzX2ZSNGlLdk05TjJYQTN4M2ZLQlpqM2NmVVlYYXFaTFNGSnhQcnh5bVN3blpENmRxV2dSZUVPcHo1NUp5bEdjLUZseXBRZ2ZiSVVnWmt0WTJDd0VCNXdPTFJzenJOdUtVclAyRHNFN01Za0U3dGxnNl9TMjdnQQ?oc=5",
       "source": "Criptovaluta.it",
@@ -44,10 +44,10 @@
       "is_new": false
     },
     {
-      "title": "Notizie sul prezzo del Bitcoin: BTC riconquista i 70.000 $ sulla notizia della tregua",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTlhtaTh5VWlaVVhTVGxsYWdnQU1rU1NLeEFOTkRhNWw3WnhnRnpmVmFtNTIwN1JGeHZBb0lXVEd2S0xHeDRQdkdkNXpRTXRHSXF2ODktMWF5UUdlWE1MbVhrLXJESVlLY2UwcTctNTdzVU9CeFhSVVg4emtQWFc5UHV4NG1KUVJiRDNTQjBzWE1oRndUd0NneG1BS3Rjc0dYRUJicUptaGJ1M0FqcWpWa0FsamFsN1U?oc=5",
-      "source": "CoinDesk",
-      "published_at": "Tue, 24 Mar 2026 12:49:00 GMT",
+      "title": "Bitcoin ($): un veloce balzo in avanti",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWUppR0NxVzcwa1hGNkk1TXU2ZEtNcGxMY28xbjdIN19RWTlJbDdWSkJPLWdXQzFHNWZmRkNPNWdoaGd5NXZpMUdPUTVKY2xOUVFENzZuS3NrZTZhOGdUOVpUc2J2Q2ZEN2xQT1BtcDBscjh4Z3VmM054WE1raWlLdnh6RVA3OW1vVm5iY2FjV05XLXRSZ25iai1EOHlRSjJvUXMydA?oc=5",
+      "source": "Milano Finanza",
+      "published_at": "Tue, 24 Mar 2026 06:55:00 GMT",
       "is_new": false
     },
     {
@@ -65,18 +65,18 @@
       "is_new": false
     },
     {
+      "title": "Lo smart-spaccio 4.0 ad Agrigento tra Bitcoin e Tiktok, la metamorfosi digitale dei clan e dei \"Paracchi\"",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV2tYNjdwNTBvVEluZmoyWTUzUXhUU1Q3cU1qSk5PV0NaTXJ2LXRoWDJvN1U4N0lkcWQtdHRpOEQ1cHlEclRfdzVycUNEcHJybEUxZURQeEpNYnJWVTBLc0hmV21xVnNoS2FoV2tUSmdVTXNpbUd3ZmJXWHFvbWpkUDE3S3lyeW9WYWwxdlR2cTlxVGFwbmVYako5WGI1Sk92WGc?oc=5",
+      "source": "AgrigentoNotizie",
+      "published_at": "Wed, 25 Mar 2026 05:48:40 GMT",
+      "is_new": true
+    },
+    {
       "title": "La polizia irlandese sblocca un wallet Bitcoin sequestrato, inattivo da quasi dieci anni",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRXVGMWhiTTNSQTNiZWFQU283RTJJQzlzMGU2TmM4NDhnamZYbGdTVWpJS2F4dHFuSEl5VjRzYUhETzV2R2pGaVVEX3lOSHREUmlKQjduN0hYN2g5VXV0NmJFRmszUlUxeU1wVzktend2eWV2Nk5TOG03Z1hjdkN4TVpTcGdVS01Qem9HS3hRM0c?oc=5",
       "source": "BeInCrypto",
       "published_at": "Wed, 25 Mar 2026 02:44:00 GMT",
       "is_new": true
-    },
-    {
-      "title": "Alex Holmes nuovo CEO di Bitcoin Depot Inc.",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY180Rzdud05YYllVV0pxRXkyaXRQMzlROFZQZkszdC14TC1iN0FFTnJiMU4zc19MN1dvSzQ5ZjFvdDQzeldYd0VpQzNZSHNqdzgzeFc5QlU5d3BJTVNLYkl2ZWpLcGhrUWhKdDA5cmxkbnBSUUwzZkhtaE9UVk5kOUFfWQ?oc=5",
-      "source": "imille.com",
-      "published_at": "Tue, 24 Mar 2026 13:40:33 GMT",
-      "is_new": false
     },
     {
       "title": "Il Bitcoin raggiungerà i 76.000 dollari se il traffico nello Stretto di Hormuz tornerà alla normalità: Wintermute",
