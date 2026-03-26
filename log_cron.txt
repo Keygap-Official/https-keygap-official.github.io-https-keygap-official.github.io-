@@ -20575,3 +20575,157 @@ Errore nel ciclo: 429 Client Error: Too Many Requests for url: https://api.coing
 Attendo 30 minuti per il prossimo ciclo...
 Errore nel ciclo: 429 Client Error: Too Many Requests for url: https://api.coingecko.com/api/v3/coins/markets?vs_currency=eur&ids=bitcoin&price_change_percentage=24h
 Attendo 30 minuti per il prossimo ciclo...
+remote: This repository moved. Please use the new location:        
+remote:   https://github.com/Keygap-Official/https-keygap-official.github.io.git        
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   e4c848dd6..3365e01f2  main -> main
+✅ Update 78356 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main 91c01a9c3] Elite update 93518
+ 6 files changed, 238 insertions(+), 20 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_26_03_2026_05_40.html
+remote: This repository moved. Please use the new location:        
+remote:   https://github.com/Keygap-Official/https-keygap-official.github.io.git        
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   c02452597..91c01a9c3  main -> main
+✅ Update 93518 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main 50c7d2ee9] Elite update 28589
+ 6 files changed, 260 insertions(+), 34 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_26_03_2026_06_10.html
+remote: This repository moved. Please use the new location:        
+remote:   https://github.com/Keygap-Official/https-keygap-official.github.io.git        
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   1c0dd9273..50c7d2ee9  main -> main
+✅ Update 28589 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main 0e1bd665e] Elite update 78136
+ 6 files changed, 248 insertions(+), 27 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_26_03_2026_06_40.html
+remote: This repository moved. Please use the new location:        
+remote:   https://github.com/Keygap-Official/https-keygap-official.github.io.git        
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   2f92809bb..0e1bd665e  main -> main
+✅ Update 78136 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main 873efb1d0] Elite update 81887
+ 6 files changed, 255 insertions(+), 34 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_26_03_2026_07_10.html
+remote: This repository moved. Please use the new location:        
+remote:   https://github.com/Keygap-Official/https-keygap-official.github.io.git        
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   72dc62a7d..873efb1d0  main -> main
+✅ Update 81887 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main eb9c720fd] Elite update 37309
+ 6 files changed, 148 insertions(+), 20 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_26_03_2026_07_41.html
+remote: This repository moved. Please use the new location:        
+remote:   https://github.com/Keygap-Official/https-keygap-official.github.io.git        
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   8830392a4..eb9c720fd  main -> main
+✅ Update 37309 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main 6254720ff] Elite update 47055
+ 6 files changed, 237 insertions(+), 11 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_26_03_2026_08_11.html
+remote: This repository moved. Please use the new location:        
+remote:   https://github.com/Keygap-Official/https-keygap-official.github.io.git        
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   553d6a74f..6254720ff  main -> main
+✅ Update 47055 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main 28e18edb4] Elite update 32886
+ 6 files changed, 245 insertions(+), 27 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_26_03_2026_08_41.html
+remote: This repository moved. Please use the new location:        
+remote:   https://github.com/Keygap-Official/https-keygap-official.github.io.git        
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   97bd3c5ef..28e18edb4  main -> main
+✅ Update 32886 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main 8a3a771f2] Elite update 76548
+ 7 files changed, 320 insertions(+), 20 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_26_03_2026_09_11.html
+remote: This repository moved. Please use the new location:        
+remote:   https://github.com/Keygap-Official/https-keygap-official.github.io.git        
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   4f81a6c40..8a3a771f2  main -> main
+✅ Update 76548 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main d82f0a881] Elite update 44334
+ 6 files changed, 231 insertions(+), 13 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_26_03_2026_09_41.html
+remote: This repository moved. Please use the new location:        
+remote:   https://github.com/Keygap-Official/https-keygap-official.github.io.git        
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   cfb4f2633..d82f0a881  main -> main
+✅ Update 44334 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main 8796fa9e4] Elite update 53587
+ 6 files changed, 231 insertions(+), 13 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_26_03_2026_10_11.html
+remote: This repository moved. Please use the new location:        
+remote:   https://github.com/Keygap-Official/https-keygap-official.github.io.git        
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   32223c707..8796fa9e4  main -> main
+✅ Update 53587 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main e62643742] Elite update 80272
+ 6 files changed, 238 insertions(+), 20 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_26_03_2026_10_41.html
+remote: This repository moved. Please use the new location:        
+remote:   https://github.com/Keygap-Official/https-keygap-official.github.io.git        
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   7867057bb..e62643742  main -> main
+✅ Update 80272 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main 0301cc92c] Elite update 27209
+ 6 files changed, 231 insertions(+), 13 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_26_03_2026_11_11.html
+remote: This repository moved. Please use the new location:        
+remote:   https://github.com/Keygap-Official/https-keygap-official.github.io.git        
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   b38ca86e4..0301cc92c  main -> main
+✅ Update 27209 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main 6b378f9e3] Elite update 42576
+ 6 files changed, 231 insertions(+), 13 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_26_03_2026_11_41.html
+remote: This repository moved. Please use the new location:        
+remote:   https://github.com/Keygap-Official/https-keygap-official.github.io.git        
+To https://github.com/giampierodeluca676-lgtm/giampierodeluca676-lgtm.github.io.git
+   c9693d458..6b378f9e3  main -> main
+✅ Update 42576 pubblicato
+Attendo 30 minuti per il prossimo ciclo...
+✅ Telegram inviato
+ℹ️ Blogger non configurato: skip publish.
+[main 3ce782b89] Elite update 83748
+ 6 files changed, 335 insertions(+), 20 deletions(-)
+ create mode 100644 Report_Finanziari/Report_Mondiale_26_03_2026_12_11.html
