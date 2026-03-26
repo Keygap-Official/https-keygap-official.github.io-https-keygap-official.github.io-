@@ -1,11 +1,18 @@
 {
-  "updated_at": "26/03/2026 13:30:08",
+  "updated_at": "26/03/2026 13:41:33",
   "items": [
     {
       "title": "Bitcoin ($): fase laterale di consolidamento",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMTZTc2xJYkJBakpCZy0wNUxqYzNqSFdQRUEwRmRnaUh3RGNLNHduNWF4cFRvVUNiVWRQNXhqVENJLVZpblF4N3gybjQwZURNVnYtN1Y2V2daNTZNTUhRcjNkY21FSWlHRmRSUzRhRV9CVjJFcFFybmFxd3VZMHFCdnFuWklBUlBlenZJY3BMMG43Unk5TlktWjJ2SVA2YV9QWXNOZ0tzU3I1VDFI?oc=5",
       "source": "Milano Finanza",
       "published_at": "Thu, 26 Mar 2026 06:15:00 GMT",
+      "is_new": false
+    },
+    {
+      "title": "Truffa dei Bitcoin dimenticati: come funziona lo schema e come difendersi",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUS03OHdyODBnUTlUOWtQbm16Vk9JcnozVjdiWWVxeWVCY2RmWXdtVU90aUhnNm9QYzFVQThzY2NJd1JHaERaZS1pUnk4UV9tOGJwWVhCV2JYV3h0d2NPb05ZMU9zSTNGb3lQVmNoMTE2M2NuLTlWRU5NOGpKbmtidXhkWXhGaWFMbXVfOTJlWVhDYzY4bGQzWEJJR3NLY3Y0?oc=5",
+      "source": "CreditNews",
+      "published_at": "Thu, 26 Mar 2026 06:33:58 GMT",
       "is_new": false
     },
     {
@@ -20,13 +27,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUUlyV1A5akRmUFh5dkhfOGZjbEd0THFLYWxLN2lmQ3MxMVN5S2pfMHZhdHdnd2kxXzlJVXhBYWdkYnZqdER3VHBBT2JtOHJ6S3VZekNVYjdEOGgwSmtlTFpqUWpETkFSSWxuLWN0VzM1djNfQkE0cHp4VXZXN2dQdDl0enp0dngwUlpiYkhxS1Y0N0pUM25JT2luT242WTVhMzBNM1E3LVRWMlNINHV1UkhNcElFdnM?oc=5",
       "source": "Investing.com",
       "published_at": "Thu, 26 Mar 2026 10:48:00 GMT",
-      "is_new": false
-    },
-    {
-      "title": "Truffa dei Bitcoin dimenticati: come funziona lo schema e come difendersi",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUS03OHdyODBnUTlUOWtQbm16Vk9JcnozVjdiWWVxeWVCY2RmWXdtVU90aUhnNm9QYzFVQThzY2NJd1JHaERaZS1pUnk4UV9tOGJwWVhCV2JYV3h0d2NPb05ZMU9zSTNGb3lQVmNoMTE2M2NuLTlWRU5NOGpKbmtidXhkWXhGaWFMbXVfOTJlWVhDYzY4bGQzWEJJR3NLY3Y0?oc=5",
-      "source": "CreditNews",
-      "published_at": "Thu, 26 Mar 2026 06:33:58 GMT",
       "is_new": false
     },
     {
@@ -58,13 +58,6 @@
       "is_new": true
     },
     {
-      "title": "Oro Vs. Bitcoin: Forza di XAUUSD in Crescita Mentre BTC Tenta il Rimbalzo",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMUtndDdiWEhpXzJULVU3WFRZbkRBQ3c1dkdsNGlKNVNZS0hGTHg0X09tUnJGT2E0cDdWLUpQa3dIOXlrbFBsc3FjVGJZMi0zSUZoVkJ5bEppdk1STU9ReDdIemFpRzItNFhSb2xMNGFlQ2RPTFNibTJQWFh1NS1Jdl9CM25xZ1ppR2sxMGw0QmRtSGdSNDRoZ2wzWkl0dHQ5akdrby1IOHFoaXZl?oc=5",
-      "source": "FXEmpire",
-      "published_at": "Thu, 26 Mar 2026 05:53:00 GMT",
-      "is_new": false
-    },
-    {
       "title": "Oro vs Bitcoin: chi sta vincendo la sfida come bene rifugio",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNckFJeU9QbFZLejZKM1RUU0NlZ1ZldkFIcTEtRDUwU0FCc0FkaXBoSGt0VnRSYU9DbHQwSmRyY1ZqRG94Qk9qdnZveU1hb3ZqNjVPSkNCdTBWQUk4LWpHWmY1UTZsY01hYlRJWm9UZW1MeklOcG5oaFpEZHRieHJ1YkhVcTdjdmctaGw0V0QzYklTUQ?oc=5",
       "source": "Meteofinanza.com",
@@ -79,10 +72,17 @@
       "is_new": true
     },
     {
-      "title": "Ancora scontro sulla super legge crypto: exchange contro banche per i rendimenti",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS0ZIQ3B4dFAwa3hxOGpDcEpqTWxTVVg5cGNzUGRidTU2V0VrSlBualVxa1UxQ0R1OGZPc1ZsaHNlM0EtNWRhUDVPOGxhRjh2TDAxV3JJbXNFV2NNZEpMUzNGU09XclppRWJYQ2JFYk1Rd004S3pTdG1hR0NIbGNuSG5ueXlYcTg?oc=5",
+      "title": "Better e Coinbase lanciano mutui garantiti da Bitcoin",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNnN2MFVPYkw2MjNLVTV4QVM4TEc5eWtWd2w5YTdqVDJEZm51MWxIY2h1VWpvSlE5RE40M1NteGMyNlhsWXQtOXR2aDRIUE9rQ2JsckR0dVNjcFdsUk55U0J1NWYyMndTOThvRjlYVFd6amU2VjVzZVR6WHB1a2V4eDJfb0pEVG1fRlo0b05xMVR4bGdTbktZU1psSHlmUUZjWDNXY3I3YTMxUTZzTkE?oc=5",
+      "source": "Investing.com",
+      "published_at": "Thu, 26 Mar 2026 12:39:00 GMT",
+      "is_new": true
+    },
+    {
+      "title": "Il venerdì della paura si avvicina: petrolio sopra i 100$, crypto alt crollano. E ora?",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvdW1QVGN4TEJxWDRtVU9NZUlkbjNLckxydGkyZklkTHF3Rl9EOW1EQ0JhWW1jLU1vbmd5MzhkMjR2ZER5d0lOZnZnLW1jcWs5NGxHdlAxakh5NlJlOTJGOUI1WENFa2k0OUF5V0J3cl9jV05neHhqUA?oc=5",
       "source": "Criptovaluta.it",
-      "published_at": "Thu, 26 Mar 2026 08:02:00 GMT",
+      "published_at": "Thu, 26 Mar 2026 11:40:00 GMT",
       "is_new": true
     }
   ]
