@@ -1,5 +1,5 @@
 {
-  "updated_at": "26/03/2026 07:30:08",
+  "updated_at": "26/03/2026 07:41:00",
   "items": [
     {
       "title": "Bitcoin ($): fase laterale di consolidamento",
@@ -7,6 +7,13 @@
       "source": "Milano Finanza",
       "published_at": "Thu, 26 Mar 2026 06:15:00 GMT",
       "is_new": false
+    },
+    {
+      "title": "Truffa dei Bitcoin dimenticati: come funziona lo schema e come difendersi",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUS03OHdyODBnUTlUOWtQbm16Vk9JcnozVjdiWWVxeWVCY2RmWXdtVU90aUhnNm9QYzFVQThzY2NJd1JHaERaZS1pUnk4UV9tOGJwWVhCV2JYV3h0d2NPb05ZMU9zSTNGb3lQVmNoMTE2M2NuLTlWRU5NOGpKbmtidXhkWXhGaWFMbXVfOTJlWVhDYzY4bGQzWEJJR3NLY3Y0?oc=5",
+      "source": "CreditNews",
+      "published_at": "Thu, 26 Mar 2026 06:33:58 GMT",
+      "is_new": true
     },
     {
       "title": "Analisi del prezzo di Bitcoin: alcuni indicatori stanno ancora andando nella direzione sbagliata, mettendo in discussione la narrazione rialzista del mantenimento dei 70.000$",
@@ -76,13 +83,6 @@
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU3VFbXd1LUQxQjE4ekdndk1lejM2eUxlalhOMnpJeGZPci1nZ2JXX0hIRmthbm9kSmpYcXpWWmhfeV80eTFvVlBuTHljeVNHZndQcGFnSzdEMXA0Y2VtQTdZTFdTRkcza2hueHZ4UkVfcjRUemM0SFFfQk5yd19RVzRheVNVWXJLWmFqNkEyWWktQzk3bU5aem5nWmk2UVZtSEFDeWotLUtMdHQxcEQ0SWh5RWlpZ2s2M05OWUpuYmJ6cU9fWkFWdV9aVWM1Nng5SnB0cg?oc=5",
       "source": "Investing.com",
       "published_at": "Wed, 25 Mar 2026 09:58:00 GMT",
-      "is_new": false
-    },
-    {
-      "title": "Hyperscale Data dichiara 42,6 milioni in Bitcoin: riserve al 147% della market cap",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTzRvcE93MUdNaG00ZS16YjNKZ2tGamFHeTJxekpQWjFuWWhNV1FNM3R0ZEtSZ093ZG16ZjR4SFk1SXAxU1lZMFBrZmNoWnVlOU9KUG4ydExPNnNBcUFIVGh5c0I0Y2hpVlhNcE5leURmNkJKN3lHa3Z3TzNoTWM3SEZ5QmVDOW9P?oc=5",
-      "source": "Yahoo Finanza",
-      "published_at": "Wed, 25 Mar 2026 11:48:47 GMT",
       "is_new": false
     }
   ]
