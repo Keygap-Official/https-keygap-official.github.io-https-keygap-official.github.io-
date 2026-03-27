@@ -1,8 +1,8 @@
 {
-  "id": 20759,
-  "updated_at": "27/03/2026 13:31:10",
-  "price_eur": 57784.0,
-  "change_24h_pct": -3.9,
+  "id": 70565,
+  "updated_at": "27/03/2026 13:43:23",
+  "price_eur": 57824.0,
+  "change_24h_pct": -3.83,
   "high_24h_eur": 60451.0,
   "low_24h_eur": 57684.0,
   "support_eur": 57684.0,
@@ -10,5 +10,5 @@
   "bias": "moderatamente ribassista",
   "volatility": "alta",
   "quick_read": "Prezzo in equilibrio nel breve. € 57.684 resta il supporto da difendere, mentre € 60.451 è la prima resistenza utile per un'accelerazione.",
-  "latest_report_file": "Report_Finanziari/Report_Mondiale_27_03_2026_13_31.html"
+  "latest_report_file": "Report_Finanziari/Report_Mondiale_27_03_2026_13_43.html"
 }
