@@ -1,5 +1,5 @@
 {
-  "updated_at": "27/03/2026 11:43:15",
+  "updated_at": "27/03/2026 12:00:04",
   "items": [
     {
       "title": "Bitcoin, Fannie Mae adesso li accetta come garanzia sui mutui per la casa",
@@ -7,6 +7,13 @@
       "source": "Milano Finanza",
       "published_at": "Thu, 26 Mar 2026 19:00:00 GMT",
       "is_new": false
+    },
+    {
+      "title": "Market Insight: Bolla AI, Oro e Bitcoin",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUxmS0hMWExna2NsUmFnNVE5b3Z6VDRZb3J3c2FRTjhTdUVKWHdlZjhDRzl5SWd4ZEM0a2YwWjQxeDdyYVVodWwxZUpidkxQYkF6ajRYMjVQcTl2MzQ5ek0xc0tEQnhRcmJKNUZlTnduZ2Fqdk1SWGpGZ0dkam5UVGFqbmFxM19y?oc=5",
+      "source": "Investing.com",
+      "published_at": "Fri, 27 Mar 2026 10:13:00 GMT",
+      "is_new": true
     },
     {
       "title": "Oro in forte calo, mentre Bitcoin mostra resilienza: l’analisi",
@@ -65,13 +72,6 @@
       "is_new": false
     },
     {
-      "title": "PROCESSO NATUROPATA E TRUFFA BITCOIN",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBM1g5dkdDQmZVVFE0UUZzYjByNF9ET05SWjlwbkRRdTZHelNuOTYxU0tRS2RfU3RrRUtKVk5RNzRNNUlpeDYtaWlUWXh3OWRiQ1VCNTN5NGk2cTRPSE1lM3pWb1FCUXVXSGRmc3ZIMHFIQXg5NmpmdW0tcWY?oc=5",
-      "source": "Radio Più – Emittente Agordina",
-      "published_at": "Fri, 27 Mar 2026 04:22:03 GMT",
-      "is_new": false
-    },
-    {
       "title": "Non più \"zar delle criptovalute\": David Sacks lascia il suo incarico speciale",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZG1BMjBiRGp1VzZVRW5kV2pZTHdVX2hpSmdXVFRHeTBHanNKVlRxYzdxMGVTd2Naemp5eVM0VUxJN01TekgzQ0FfcmJMZGVBMGUtUF9jcDhOWDlHTWg4MXdXRGJiUVAzQjlXenczMHpPa28zT1BRVWZZR1p5Y2FYcmNpc3FCejlwRTM3UnlCZ0ItcVNSOGliLTFwN3VOcTcyckJtU1Bn?oc=5",
       "source": "Bitcoin.com News",
@@ -79,10 +79,10 @@
       "is_new": true
     },
     {
-      "title": "Relai, l’app svizzera per comprare Bitcoin ora è regolamentata in tutta Europa – LMF",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb0hIU1BLazZPSFZuMlVSZzZ4SGZmcmFKSTBSZDlnQWE1X1FNS2d0a2dDS3JyZXNFOWlZOTByMGJFdTNEekVObTFZcWhCRENKYzFtUVp2a3RGYkpPcEJZU3NWZWFnYmhDLVdwRzVacms5R0hvcnMwUzRwM05raElaREJqV3c2aklFalVtMEZSRUl2RTRSaDBBVmI1dWpIYzdaRUR6cV9BYXhVR201ZkgxdzhjVQ?oc=5",
-      "source": "LaMiaFinanza",
-      "published_at": "Fri, 27 Mar 2026 05:34:06 GMT",
+      "title": "PROCESSO NATUROPATA E TRUFFA BITCOIN",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBM1g5dkdDQmZVVFE0UUZzYjByNF9ET05SWjlwbkRRdTZHelNuOTYxU0tRS2RfU3RrRUtKVk5RNzRNNUlpeDYtaWlUWXh3OWRiQ1VCNTN5NGk2cTRPSE1lM3pWb1FCUXVXSGRmc3ZIMHFIQXg5NmpmdW0tcWY?oc=5",
+      "source": "Radio Più – Emittente Agordina",
+      "published_at": "Fri, 27 Mar 2026 04:22:03 GMT",
       "is_new": false
     }
   ]
