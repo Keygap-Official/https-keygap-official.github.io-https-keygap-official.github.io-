@@ -1,5 +1,5 @@
 {
-  "updated_at": "27/03/2026 16:43:36",
+  "updated_at": "27/03/2026 17:00:02",
   "items": [
     {
       "title": "Bitcoin ($): andamento contrastato",
@@ -23,11 +23,18 @@
       "is_new": false
     },
     {
+      "title": "Bitcoin in forte calo, vicino a 66'000 dollari",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZFplb21nRGFZOGg4Ykt5YzJpNWhPbTJfelFja083ZGhYRVZMUk95UG1GMnc1LVBSazRTRUJhOVNCQjVJczZvbmNiYjYwcXEzX2lveFRxZUFlNkFPX1J6SEg2ZUIzb3RCQlpwMFZUeE5IQXAwOGMxdXBqbE9XaFJvZEt1M09PaGlmTzVSVjAzV1NOZlh4T2tadXhlbVQtMl83VFE?oc=5",
+      "source": "MarketScreener Italia",
+      "published_at": "Fri, 27 Mar 2026 15:48:20 GMT",
+      "is_new": true
+    },
+    {
       "title": "Bitcoin ed Ethereum rompono supporti: Hormuz e Treasury affossano mercati",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUG5PZ3l4RHFXRHRTMDJNS09SZ2pBMjN0ZXdKLUF0QzRKdHpjc3pZMkFLRUYtdWJETGRzeDlpc29VS0RFRHM4aHBITzNNc0s3Xy1kVTFsaWtCZGRnbUxFV0w0RUphTTJncHk3b25JT3JhYURSUGh2c25XRkJScFBhSzRsVi1iSTRaNmhRTlFJSQ?oc=5",
       "source": "Criptovaluta.it",
       "published_at": "Fri, 27 Mar 2026 15:17:00 GMT",
-      "is_new": true
+      "is_new": false
     },
     {
       "title": "Bitcoin in calo mentre scadono le opzioni sulla cripto Da OraFinanza",
@@ -63,13 +70,6 @@
       "source": "TradingView",
       "published_at": "Fri, 27 Mar 2026 09:00:00 GMT",
       "is_new": false
-    },
-    {
-      "title": "Le 5 migliori neobank europee che portano la crypto nella finanza tradizionale",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oVkpUSWtUNE01NE9nNDhwLVkwT24tVjJGeV83RVFxX25ST1JIVjNvYWs1emNmWEpSV01CR3Fvd1o2bl9JUkprbjZmV2huQ2ROVDRjUmhXSHljV0tPNW0tN1c2bzVpeWk2?oc=5",
-      "source": "BeInCrypto",
-      "published_at": "Fri, 27 Mar 2026 14:27:56 GMT",
-      "is_new": true
     },
     {
       "title": "Market Insight: Bolla AI, Oro e Bitcoin",
