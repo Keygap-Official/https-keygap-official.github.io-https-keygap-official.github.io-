@@ -1,5 +1,5 @@
 {
-  "updated_at": "27/03/2026 06:31:16",
+  "updated_at": "27/03/2026 06:42:55",
   "items": [
     {
       "title": "Bitcoin, Fannie Mae adesso li accetta come garanzia sui mutui per la casa",
@@ -14,6 +14,13 @@
       "source": "FXEmpire",
       "published_at": "Thu, 26 Mar 2026 13:40:00 GMT",
       "is_new": false
+    },
+    {
+      "title": "Relai, l’app svizzera per comprare Bitcoin ora è regolamentata in tutta Europa – LMF",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb0hIU1BLazZPSFZuMlVSZzZ4SGZmcmFKSTBSZDlnQWE1X1FNS2d0a2dDS3JyZXNFOWlZOTByMGJFdTNEekVObTFZcWhCRENKYzFtUVp2a3RGYkpPcEJZU3NWZWFnYmhDLVdwRzVacms5R0hvcnMwUzRwM05raElaREJqV3c2aklFalVtMEZSRUl2RTRSaDBBVmI1dWpIYzdaRUR6cV9BYXhVR201ZkgxdzhjVQ?oc=5",
+      "source": "LaMiaFinanza",
+      "published_at": "Fri, 27 Mar 2026 05:34:06 GMT",
+      "is_new": true
     },
     {
       "title": "L'ETF su Bitcoin di Morgan Stanley è prossimo al lancio sul NYSE",
@@ -77,13 +84,6 @@
       "source": "Binance",
       "published_at": "Thu, 26 Mar 2026 13:22:41 GMT",
       "is_new": false
-    },
-    {
-      "title": "Le 5 migliori neobank dell’America Latina che portano la crypto alle masse",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3djY1Z2hlMFBUWk84VjJ5eGZyWHRIQlFOajR1QWw2NVUxeVBwYlRXUjVGYzVRQ3B5MTQyLU9FZ3lBMFhldlkzQm9WSWZoT1lfZWxGaTkyaTJRQUM2M3YwTl9mdkIwWkU?oc=5",
-      "source": "BeInCrypto",
-      "published_at": "Fri, 27 Mar 2026 05:08:04 GMT",
-      "is_new": true
     }
   ]
 }
