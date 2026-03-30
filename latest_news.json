@@ -1,5 +1,5 @@
 {
-  "updated_at": "31/03/2026 00:30:08",
+  "updated_at": "31/03/2026 01:00:03",
   "items": [
     {
       "title": "Perché il mercato crypto è in rialzo oggi?",
@@ -30,11 +30,11 @@
       "is_new": false
     },
     {
-      "title": "Bitcoin: miner tornano a correre. Tempi brevi, recupero dopo crash di 7 giorni fa",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95cFhQbkVtX3FnNHlkT3BmeHRMNXdqa041bTlaSVVqQU85WDlaLUExRE1SbGY4b0RJUXUzcmctd0NwLUxfeml5UDA1c1ZIeE1hSV84YjFDZjBVNHJGOEJuTGxlelVRamVaYzFiNTVuNG9WTDQ?oc=5",
+      "title": "Addio sogni di altseason: il 40% dei token crypto ai minimi storici",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMjNRb2QybXROSjRlWmZ3ZGIzaG03cHZ1M0EtQ1EzaV9URUF2SlNQZ3NKQ1Bxb2xUYnRsTFdlYW9uTG9Nd1BYOWVyQ0g1T3IxQnB0SkIxX1RLVGpmMkJxWHhzUW1TaVFxTS1vSEhtaXNGSGpObkphS3Nmb0dPU0hmMnR1ZzFIUQ?oc=5",
       "source": "Criptovaluta.it",
-      "published_at": "Mon, 30 Mar 2026 15:34:09 GMT",
-      "is_new": false
+      "published_at": "Mon, 30 Mar 2026 16:43:00 GMT",
+      "is_new": true
     },
     {
       "title": "I guadagni nel settore crypto guidati dalle altcoin, ma la struttura ribassista rimane intatta: Mercati Crypto Oggi",
@@ -51,13 +51,6 @@
       "is_new": true
     },
     {
-      "title": "Grafico Bitcoin a 10 anni | analisi IA in tempo reale",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFRi05OXVyaWF4MzdYeWlXY3ctN0VESFREbEQtSWQ3aUlLZGI0Nm1YZFJLXzNNS0lyLVdhZWItcjJpY3BEQ09la1RfUHE4WjFZSndOU254VjE?oc=5",
-      "source": "Investing.com",
-      "published_at": "Mon, 30 Mar 2026 09:47:20 GMT",
-      "is_new": false
-    },
-    {
       "title": "Bitcoin prova a tenere la soglia dei 67.000 dollari grazie a grandi movimenti di mercato",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUFljRDZUcjZ5ZlB5OUxOMk8yQ2lka1dsUnZORVM5c1JhaUktQi1yUEtWSEdDRVBnWnZEUkQyei1LdG5wcjc5TE1qelFfVXFnbl9jQTh4bks3RWpDdXk2YjJyVkZUMXdKWnhpZDZXa3hJM1BJNUhmZDE2WlBkbnAzczZRS0xZOVhHd3c?oc=5",
       "source": "Yahoo Finanza",
@@ -72,11 +65,18 @@
       "is_new": true
     },
     {
-      "title": "Addio sogni di altseason: il 40% dei token crypto ai minimi storici",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMjNRb2QybXROSjRlWmZ3ZGIzaG03cHZ1M0EtQ1EzaV9URUF2SlNQZ3NKQ1Bxb2xUYnRsTFdlYW9uTG9Nd1BYOWVyQ0g1T3IxQnB0SkIxX1RLVGpmMkJxWHhzUW1TaVFxTS1vSEhtaXNGSGpObkphS3Nmb0dPU0hmMnR1ZzFIUQ?oc=5",
-      "source": "Criptovaluta.it",
-      "published_at": "Mon, 30 Mar 2026 16:43:00 GMT",
+      "title": "Strategy interrompe gli acquisti di bitcoin dopo 13 settimane",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS0plQjAtS1h4NGRCeVVaRUpCRnIxUkE5a0tlM2Y1M1lmTjhnY1lPbkpNSURtNkh1VlNsTEpZd1JDSmFiREZNeEktNkY4WEgzVlhUWTR2SzlXbmIzRFZRVHdLVmlkOFBjZzVnMHExd3dUeEpRUmJUc1ptNTR6RWtVUk5GUmhsSS14b1lUOUt1bjQzeG5mSzJmNlhOc05ORFBBVy1xTFFaellkaWhUeUF3T2g0dm03MmRBSzRnSzJIQQ?oc=5",
+      "source": "Investing.com",
+      "published_at": "Mon, 30 Mar 2026 19:06:00 GMT",
       "is_new": true
+    },
+    {
+      "title": "Bitcoin: miner tornano a correre. Tempi brevi, recupero dopo crash di 7 giorni fa",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95cFhQbkVtX3FnNHlkT3BmeHRMNXdqa041bTlaSVVqQU85WDlaLUExRE1SbGY4b0RJUXUzcmctd0NwLUxfeml5UDA1c1ZIeE1hSV84YjFDZjBVNHJGOEJuTGxlelVRamVaYzFiNTVuNG9WTDQ?oc=5",
+      "source": "Criptovaluta.it",
+      "published_at": "Mon, 30 Mar 2026 15:34:09 GMT",
+      "is_new": false
     },
     {
       "title": "Notizie sul prezzo del Bitcoin: BTC cede i guadagni mentre il petrolio WTI supera i 100 dollari al barile",
