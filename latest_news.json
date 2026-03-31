@@ -1,11 +1,18 @@
 {
-  "updated_at": "31/03/2026 02:30:07",
+  "updated_at": "31/03/2026 03:00:03",
   "items": [
     {
       "title": "Perché il mercato crypto è in rialzo oggi?",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUmREbjVGMDhxczNGREtfWG5ES0w5SFY3WldOcUEzN2c0R2o4OHpsMlBUUDEwTXJ2dUZWX3JrQmRmVGpLWlJzakJQdDNvUFJLVkFITGxIUTNIejdpLTljeHlGSE1ZNzJFTE9Ja3k4Z25uOWE2RS1Wa1EzMktpSDdrNDkzT1F6cVNwdy0tbTZJNjhtQQ?oc=5",
       "source": "Yahoo Finanza",
       "published_at": "Mon, 30 Mar 2026 07:02:32 GMT",
+      "is_new": false
+    },
+    {
+      "title": "Analisi tecnica Bitcoin (BTC)",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aN0NjRGI1NWp2UUhxcjNtYWhuWkJPYWs2UHdZQ3YwQ3pjZTNoaVRqaGNRTi10OUhhd3BQNW1sQjZEQ1RBOTZaNmw2eVJIOU1MYUs5eGhEUkZfTmpMREE?oc=5",
+      "source": "Investing.com",
+      "published_at": "Mon, 30 Mar 2026 14:30:44 GMT",
       "is_new": false
     },
     {
@@ -23,10 +30,10 @@
       "is_new": false
     },
     {
-      "title": "Strategy interrompe gli acquisti di bitcoin dopo 13 settimane",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS0plQjAtS1h4NGRCeVVaRUpCRnIxUkE5a0tlM2Y1M1lmTjhnY1lPbkpNSURtNkh1VlNsTEpZd1JDSmFiREZNeEktNkY4WEgzVlhUWTR2SzlXbmIzRFZRVHdLVmlkOFBjZzVnMHExd3dUeEpRUmJUc1ptNTR6RWtVUk5GUmhsSS14b1lUOUt1bjQzeG5mSzJmNlhOc05ORFBBVy1xTFFaellkaWhUeUF3T2g0dm03MmRBSzRnSzJIQQ?oc=5",
-      "source": "Investing.com",
-      "published_at": "Mon, 30 Mar 2026 19:06:00 GMT",
+      "title": "Addio sogni di altseason: il 40% dei token crypto ai minimi storici",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMjNRb2QybXROSjRlWmZ3ZGIzaG03cHZ1M0EtQ1EzaV9URUF2SlNQZ3NKQ1Bxb2xUYnRsTFdlYW9uTG9Nd1BYOWVyQ0g1T3IxQnB0SkIxX1RLVGpmMkJxWHhzUW1TaVFxTS1vSEhtaXNGSGpObkphS3Nmb0dPU0hmMnR1ZzFIUQ?oc=5",
+      "source": "Criptovaluta.it",
+      "published_at": "Mon, 30 Mar 2026 16:43:00 GMT",
       "is_new": false
     },
     {
@@ -37,24 +44,24 @@
       "is_new": false
     },
     {
-      "title": "Addio sogni di altseason: il 40% dei token crypto ai minimi storici",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMjNRb2QybXROSjRlWmZ3ZGIzaG03cHZ1M0EtQ1EzaV9URUF2SlNQZ3NKQ1Bxb2xUYnRsTFdlYW9uTG9Nd1BYOWVyQ0g1T3IxQnB0SkIxX1RLVGpmMkJxWHhzUW1TaVFxTS1vSEhtaXNGSGpObkphS3Nmb0dPU0hmMnR1ZzFIUQ?oc=5",
-      "source": "Criptovaluta.it",
-      "published_at": "Mon, 30 Mar 2026 16:43:00 GMT",
-      "is_new": false
+      "title": "La società di mining di Bitcoin di Eric Trump supera i 7.000 BTC di riserve nel 2026",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSC1qVXl3UE1sM004eGtQYUlxeU00Mjh0NEdvY1o5YzdjcE82Tjd3allmcVNrdVozT1kxV0dKRktTNEUzblRfSy00bHBLSlVtUGtCMExKcC1XSmp3eTNpc0tXZHNtRldDNm5ha2xpQzgzSHhkNDhGX0pHc0pGYjdicTdIWElGNnRiNjFUc0JjOFVmWWJNNGVtR3NnNDB2Mi1URmNaWUV3cDlEVTlWekJsZ1pB?oc=5",
+      "source": "Bitcoin.com News",
+      "published_at": "Mon, 30 Mar 2026 23:47:45 GMT",
+      "is_new": true
+    },
+    {
+      "title": "Le Crypto hanno Chiuso la Settimana in Calo ma ETH Prova Rimbalzo Oggi",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcVUzbEdKbE1tRzhlR1JyaEtlRUtkMXp2eFFjekRoQzRnclJfX0JtYklWeVhQbVEyQmxVNWVNQ2FLbncxUmFDZWZ2czRtY2tJTFRneDFMWmRqX1FEQ1BQWlRoRndrNWMyMmUyVl9XbVNSUm9XeHJpNG5od1l5N1N0STN4bmpmSDk1NVV4ZlFxZUpNUUYtd3pULUdhUE93QkVfVXc0SV9SUllTODdmMVh6bi1EWmN6eVEwcGQ0?oc=5",
+      "source": "FXEmpire",
+      "published_at": "Mon, 30 Mar 2026 19:02:00 GMT",
+      "is_new": true
     },
     {
       "title": "Bff Bank crolla in Borsa oltre il 50% dopo il provvedimento di Banca d’Italia",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR1U2QmpYbVh5TWQ0SGhSbGpHYVkxNjhZWkUwYmZrNjliRnhMSWRWcVYzdDc3OUVpLWpHWWRPYk1FdkZEMUYta2pYR1R0WjRBR0Fobk9iSFFyNDJlNVcyLVBqVGQ4Z2xiOXNBOHRzSEtienQ3WlVOQUJyanBuNDRDWE0wT0tPUUFRUUpLblBibjRwRDlQcUd5Y2Jn?oc=5",
       "source": "We Wealth",
       "published_at": "Mon, 30 Mar 2026 16:03:00 GMT",
-      "is_new": true
-    },
-    {
-      "title": "La società di mining di Bitcoin di Eric Trump supera i 7.000 BTC di riserve nel 2026",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSC1qVXl3UE1sM004eGtQYUlxeU00Mjh0NEdvY1o5YzdjcE82Tjd3allmcVNrdVozT1kxV0dKRktTNEUzblRfSy00bHBLSlVtUGtCMExKcC1XSmp3eTNpc0tXZHNtRldDNm5ha2xpQzgzSHhkNDhGX0pHc0pGYjdicTdIWElGNnRiNjFUc0JjOFVmWWJNNGVtR3NnNDB2Mi1URmNaWUV3cDlEVTlWekJsZ1pB?oc=5",
-      "source": "Bitcoin.com News",
-      "published_at": "Mon, 30 Mar 2026 23:47:45 GMT",
       "is_new": true
     },
     {
@@ -72,17 +79,10 @@
       "is_new": true
     },
     {
-      "title": "Bitcoin al bivio: gli strumenti ideali per tradare la criptovaluta",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYXBHLV91M1ItaFZwX0NHY2tZUEZtd1ROUGFZVlZseVpmSWNoLWxhQThvUFp3eEl6RmlqcWVSVk1oV0NscThlcDRiUC1BUGdWSlJKZkNXTHFxbWhWV01wWnphYjJHaV93WnJhMXRaOVNLbGdibk15NTdRY0ZWdmhsNnNkRDY1b3VIWmpUOTZvSW5fV2xRbFRoYXNDbkIxeXBXTThvcDlIQzAwWHNBMjEyVlpOTUhfZ0pmQldHZjB5aHo?oc=5",
+      "title": "Strategy interrompe gli acquisti di bitcoin dopo 13 settimane",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS0plQjAtS1h4NGRCeVVaRUpCRnIxUkE5a0tlM2Y1M1lmTjhnY1lPbkpNSURtNkh1VlNsTEpZd1JDSmFiREZNeEktNkY4WEgzVlhUWTR2SzlXbmIzRFZRVHdLVmlkOFBjZzVnMHExd3dUeEpRUmJUc1ptNTR6RWtVUk5GUmhsSS14b1lUOUt1bjQzeG5mSzJmNlhOc05ORFBBVy1xTFFaellkaWhUeUF3T2g0dm03MmRBSzRnSzJIQQ?oc=5",
       "source": "Investing.com",
-      "published_at": "Mon, 30 Mar 2026 11:16:00 GMT",
-      "is_new": true
-    },
-    {
-      "title": "Bitcoin: miner tornano a correre. Tempi brevi, recupero dopo crash di 7 giorni fa",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95cFhQbkVtX3FnNHlkT3BmeHRMNXdqa041bTlaSVVqQU85WDlaLUExRE1SbGY4b0RJUXUzcmctd0NwLUxfeml5UDA1c1ZIeE1hSV84YjFDZjBVNHJGOEJuTGxlelVRamVaYzFiNTVuNG9WTDQ?oc=5",
-      "source": "Criptovaluta.it",
-      "published_at": "Mon, 30 Mar 2026 15:34:09 GMT",
+      "published_at": "Mon, 30 Mar 2026 19:06:00 GMT",
       "is_new": false
     }
   ]
