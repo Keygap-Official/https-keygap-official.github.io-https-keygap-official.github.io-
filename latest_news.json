@@ -1,5 +1,5 @@
 {
-  "updated_at": "31/03/2026 10:00:06",
+  "updated_at": "31/03/2026 10:30:02",
   "items": [
     {
       "title": "Grafico Bitcoin a 10 anni | analisi IA in tempo reale",
@@ -23,11 +23,18 @@
       "is_new": false
     },
     {
+      "title": "Previsione del prezzo di Bitcoin: Consolidamento o rottura? BTC si muove in un intervallo ristretto vicino a 67.000$",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeHlaV1Z2b2lRa2VaRnV5UmRrOW03X0NyZDRqYVlMV0xHMkhHN1Fncm5ZdXdrZTR4WGg0Z1kxZ2xONXpIZnhQM241YUdFRXhnLXFMc1VMMHIwVzBCNDhjTEw2WVJyNVM1MDVUM1NzVHVLck1NQkZmRXc5bEZuVXZQWkkzLTFIbW5qU0QtejFCNXp4bXp0NElsTk1pMmZaSHhhUkhn?oc=5",
+      "source": "Traders Union",
+      "published_at": "Tue, 31 Mar 2026 06:02:24 GMT",
+      "is_new": true
+    },
+    {
       "title": "Prezzo del Bitcoin (BTC): Probabile vendita a seguito del calo della domanda e dell'aumento dei tassi di interesse 'reali'",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQmZWRlp0SXRYZzM1Tk5fakFfRElJMGtwY1FQdzlqRXZtWVFRamtSekVTOWNiWWVXd2pZSnhQS29JdFNXYTJsSHRPUkVOLXhqZnF0Y1g3aExrQkp0ZUNaUmFIN191WVhYS3pnMDg4dkc0cW8yVzZuZndMeTgyNVU0SkxnbGRzN2hQXy1ZVnVTakRlX29fQ24xMzMtSUZPdVk?oc=5",
-      "source": "CoinDesk",
+      "source": "coindesk.com",
       "published_at": "Mon, 30 Mar 2026 21:52:00 GMT",
-      "is_new": false
+      "is_new": true
     },
     {
       "title": "Azioni American Bitcoin in calo: 7.000 BTC e 660+ satoshi per azione",
@@ -44,32 +51,18 @@
       "is_new": false
     },
     {
-      "title": "Bitcoin prova a tenere la soglia dei 67.000 dollari grazie a grandi movimenti di mercato",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUFljRDZUcjZ5ZlB5OUxOMk8yQ2lka1dsUnZORVM5c1JhaUktQi1yUEtWSEdDRVBnWnZEUkQyei1LdG5wcjc5TE1qelFfVXFnbl9jQTh4bks3RWpDdXk2YjJyVkZUMXdKWnhpZDZXa3hJM1BJNUhmZDE2WlBkbnAzczZRS0xZOVhHd3c?oc=5",
-      "source": "Yahoo Finanza",
-      "published_at": "Mon, 30 Mar 2026 08:11:08 GMT",
-      "is_new": true
-    },
-    {
-      "title": "Le principali criptovalute avanzano; Bitcoin si mantiene sopra i 66.000 dollari",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRTRlT0V0ZkExNjJoUjZkZTdnVWlXSHA0S196UDBsTEZJU0p4YUVvSFVVbGdMekFaVXE0bUtKRTZ5ekg1RFZGR0lobDMtZl9hQ3lTVEJBamxURTVXS01JRVNRalJ0LU1IUXJrbENEYm9YcWVTX0FrRHZaVG12T00wbnBUckg5S21uRFd6RXAwNm9ONDNXYXFGenM4VUFvenZLME0yaEgydVJ2b01JLTdiaVpsWnFQY0c1SEpCck9VTWplZ0wza2JTUnpLcVh2UQ?oc=5",
-      "source": "MarketScreener Italia",
-      "published_at": "Mon, 30 Mar 2026 20:04:13 GMT",
-      "is_new": true
-    },
-    {
-      "title": "Riepilogo del mercato delle criptovalute: il Bitcoin si mantiene vicino ai 67.700 dollari grazie alle speranze di un allentamento delle tensioni con l'Iran",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeTRNUzVUUkhENGlmT2g2WExZY2QxZGJoYzI2anl1NDdNTnFVREZqakExS0tLbzZBY3MweDd1YTVfdzVMSkV3OHpvemhmZWdaTm1QQXBWMEstaXNxWl9samlmX1VpZEN5Y2FvbW9Vc1AwbjhMMjc5dDRQb0hhdDl3eEo1UWtzd194M292R3JXZw?oc=5",
-      "source": "Traders Union",
-      "published_at": "Tue, 31 Mar 2026 06:23:02 GMT",
-      "is_new": true
-    },
-    {
       "title": "Presunto hacker di Uranium Finance rischia 30 anni per furto di crypto",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YYWYyc25YWS1VNGk3STV1SktwTDJTOVVrRnVWWTJ6QV84NkxBeHI2U1dYa0tjMDlJWVl6RlFoMWpCbk1EY0piRDVxUERxM1gwaVAwMmNwdS04elJkUlZJR0pSSWFhRWxNeTJ6RjNDbGhGOUJt?oc=5",
       "source": "BeInCrypto",
       "published_at": "Tue, 31 Mar 2026 05:16:00 GMT",
       "is_new": false
+    },
+    {
+      "title": "La società di mining di Bitcoin di Eric Trump supera i 7.000 BTC di riserve nel 2026",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSC1qVXl3UE1sM004eGtQYUlxeU00Mjh0NEdvY1o5YzdjcE82Tjd3allmcVNrdVozT1kxV0dKRktTNEUzblRfSy00bHBLSlVtUGtCMExKcC1XSmp3eTNpc0tXZHNtRldDNm5ha2xpQzgzSHhkNDhGX0pHc0pGYjdicTdIWElGNnRiNjFUc0JjOFVmWWJNNGVtR3NnNDB2Mi1URmNaWUV3cDlEVTlWekJsZ1pB?oc=5",
+      "source": "Bitcoin.com News",
+      "published_at": "Mon, 30 Mar 2026 23:47:45 GMT",
+      "is_new": true
     },
     {
       "title": "Si chiama come Satoshi, ma vende Bitcoin. Altro \"tradimento\" tra le DAT!",
@@ -84,6 +77,13 @@
       "source": "Investing.com",
       "published_at": "Tue, 31 Mar 2026 07:19:00 GMT",
       "is_new": true
+    },
+    {
+      "title": "Trader apre una posizione short da $11 milioni su Bitcoin",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85V0prYmItVnhEbHdkQ1ZOUWxTYnd3LVluVmJwNS1EYks5U3hoNXctOEx0N3E2QmFwbG4ybXlNZnNvTnM0cDVqcFVwcHV4RHNZTEV3UGp4eVludUszNm9sMjJFcDk?oc=5",
+      "source": "Binance",
+      "published_at": "Tue, 31 Mar 2026 02:53:42 GMT",
+      "is_new": false
     }
   ]
 }
