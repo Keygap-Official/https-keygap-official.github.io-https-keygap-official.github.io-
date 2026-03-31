@@ -1,5 +1,5 @@
 {
-  "updated_at": "31/03/2026 12:00:07",
+  "updated_at": "31/03/2026 12:30:02",
   "items": [
     {
       "title": "Grafico Bitcoin a 10 anni | analisi IA in tempo reale",
@@ -16,10 +16,17 @@
       "is_new": false
     },
     {
-      "title": "Google: Bitcoin e crypto a rischio. Crisi quantum aumentata di venti volte",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vbG5FYlQ5VHA1NWt4Vkl3aUsyblk4ZjNQOVdORXloTjVxNXVtZkxsYTJuTDJ6RTJLdUM2WWJ3SDVKSkN3VG9PcHdsWmxEaHMyTFRqQjBNQTBPSGJqajNFZ2Z4Z2YzVFVlRXpUSXFFdFh3Rl9QSTJkbmln?oc=5",
+      "title": "10.000 miliardi dalle pensioni USA su Bitcoin e crypto. Arriva la proposta del governo",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTHdRa0g4dGUzdGlaYkRxRGw4MmVVSFNwRURPdUsySHMxakZxb1hWTE9FYm1jQmhsMzBtQS1mOXZxNXZhZWt1WWtnQURqLXZweVBkR0NoZ2Zyb2pBRUFTbjVWLTBjT1pDck9yWnQwRTJ1TE90NWxqdWk1d1B5N3ZOVVY1VVg?oc=5",
       "source": "Criptovaluta.it",
-      "published_at": "Tue, 31 Mar 2026 09:11:00 GMT",
+      "published_at": "Tue, 31 Mar 2026 10:09:00 GMT",
+      "is_new": true
+    },
+    {
+      "title": "Il team di Quantum AI di Google evidenzia la vulnerabilità della crittografia in Bitcoin ed Ethereum",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44b0VqN2xjYmNIeVVVTUZSQm9rMDUtSFB1MkV2M1loNWJYNW5peUhERHJjSm9zREJsWURBbC1jdExMeWE5SGZPa0V2b0M3SlVzOGhnaS1fZGQ1dU04SERMUXdNems?oc=5",
+      "source": "Binance",
+      "published_at": "Tue, 31 Mar 2026 05:03:10 GMT",
       "is_new": false
     },
     {
@@ -30,25 +37,18 @@
       "is_new": false
     },
     {
-      "title": "Il team di Quantum AI di Google evidenzia la vulnerabilità della crittografia in Bitcoin ed Ethereum",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44b0VqN2xjYmNIeVVVTUZSQm9rMDUtSFB1MkV2M1loNWJYNW5peUhERHJjSm9zREJsWURBbC1jdExMeWE5SGZPa0V2b0M3SlVzOGhnaS1fZGQ1dU04SERMUXdNems?oc=5",
-      "source": "Binance",
-      "published_at": "Tue, 31 Mar 2026 05:03:10 GMT",
-      "is_new": false
-    },
-    {
       "title": "Prezzo del Bitcoin (BTC): Probabile vendita a seguito del calo della domanda e dell'aumento dei tassi di interesse 'reali'",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQmZWRlp0SXRYZzM1Tk5fakFfRElJMGtwY1FQdzlqRXZtWVFRamtSekVTOWNiWWVXd2pZSnhQS29JdFNXYTJsSHRPUkVOLXhqZnF0Y1g3aExrQkp0ZUNaUmFIN191WVhYS3pnMDg4dkc0cW8yVzZuZndMeTgyNVU0SkxnbGRzN2hQXy1ZVnVTakRlX29fQ24xMzMtSUZPdVk?oc=5",
-      "source": "coindesk.com",
+      "source": "CoinDesk",
       "published_at": "Mon, 30 Mar 2026 21:52:00 GMT",
       "is_new": false
     },
     {
-      "title": "Presunto hacker di Uranium Finance rischia 30 anni per furto di crypto",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YYWYyc25YWS1VNGk3STV1SktwTDJTOVVrRnVWWTJ6QV84NkxBeHI2U1dYa0tjMDlJWVl6RlFoMWpCbk1EY0piRDVxUERxM1gwaVAwMmNwdS04elJkUlZJR0pSSWFhRWxNeTJ6RjNDbGhGOUJt?oc=5",
-      "source": "BeInCrypto",
-      "published_at": "Tue, 31 Mar 2026 05:16:00 GMT",
-      "is_new": false
+      "title": "Square consente l'accettazione automatica dei pagamenti in Bitcoin per i venditori statunitensi idonei",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORnV6M1FkZXctaWVXYmlORHJzZUozTFBYS1NWLW1OZjFoSUhST0VzMkJhSWlteHEwZU1PTURXekstMER6MkhtamJvQkd5cjByRjlzX1dsYTVmMl9GRUpCb1VXSHRZaXd1RU5KSFlNUGEtRm5ZM1EtQ3hUVzlfelpiR0g3Y3EwcXE3V2NYZ04yZXdubTUyYTZDX2R3NElCdzVBZEpFd2I3aGJmUVZJOGlLbW5hTjV4NU1TbFlGSjgxNlc3bGhtQlh2MVl3?oc=5",
+      "source": "Bitcoin.com News",
+      "published_at": "Tue, 31 Mar 2026 08:50:42 GMT",
+      "is_new": true
     },
     {
       "title": "Segui le Saily rabattcode : LEEJEAM15 scelte di portfolio crypto",
@@ -58,10 +58,17 @@
       "is_new": false
     },
     {
-      "title": "Bitcoin ed Ethereum sfidano le resistenze mentre il petrolio sale e le borse arretrano [Analisi]",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPandYTmY1Nl93OFFSWU1BMEpfc1FkanRWUnc3UDFYYTkxUTVuUUNZLW5EN0c1Vko5SVpXSnRmNU9janRnYUhBRzFpQ0k2c0lKTS05U2VxRlZWeC0yZVZ5VGhVaWJRYjJBMUpRZ1JJSUt3SFV3RFk4QUEwUE00WXREZnhSUXlIcVBhZGExSWhJYXo1LW9wQVloQQ?oc=5",
+      "title": "Binance Research: i prezzi del petrolio non influenzano l’andamento di Bitcoin",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdVJXNmNvVFBJY3BpVDlub0pSUUMtRmNVazkxOVo2YzdsdlN6ZFhSSnRiSGdPU3BXWGpWNkU1WEwwVmlOSnlIZWFuaU5GdG5uUGRoLUpVUGRkRTlOQTYwQlN3WHNWOTZnQzg5RS1VUDhXaTI2YnhfTHhzVDZzVXZkX1RoaGZMUkstazhGSWNDSkxZRlc0Wm0xYUw2eEs0Z2EtSERtbWxvVUR4R1JXMTZGY09qd1hRNFh4MDBxRHhfRGJHd0d0SXJj?oc=5",
+      "source": "zeroventiquattro.it",
+      "published_at": "Tue, 31 Mar 2026 01:00:05 GMT",
+      "is_new": true
+    },
+    {
+      "title": "Google: Bitcoin e crypto a rischio. Crisi quantum aumentata di venti volte",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vbG5FYlQ5VHA1NWt4Vkl3aUsyblk4ZjNQOVdORXloTjVxNXVtZkxsYTJuTDJ6RTJLdUM2WWJ3SDVKSkN3VG9PcHdsWmxEaHMyTFRqQjBNQTBPSGJqajNFZ2Z4Z2YzVFVlRXpUSXFFdFh3Rl9QSTJkbmln?oc=5",
       "source": "Criptovaluta.it",
-      "published_at": "Tue, 31 Mar 2026 06:16:00 GMT",
+      "published_at": "Tue, 31 Mar 2026 09:11:00 GMT",
       "is_new": false
     },
     {
@@ -77,13 +84,6 @@
       "source": "Binance",
       "published_at": "Tue, 31 Mar 2026 02:53:42 GMT",
       "is_new": false
-    },
-    {
-      "title": "Il Taproot di Bitcoin potrebbe rendere gli attacchi quantistici più facili del previsto, secondo una nuova ricerca di Google",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRU96Y2tXUndDaEFpRXR3NjBWaDJMZnRKLWJxbVhKMHhiMG9faDZJX0dfYXFONi1zNmZrOWNITHdrdHBTTDlSUE9ENFNXeElkT1dBOVBjZ2JiT1NyZV95VHZ3VFlwdk1XYTlUckhjbGJwbzVpcWlZYUxEVkZjMzVJaDlTSVktSEpwZ2hjUzhyMmlMcVp4M3VxLUlpa1VEeEp3R2pPZzgzZUs0UmZTNW13dVc5bUdVRjdhWlFYODlBbWxiUnN5SUpwQnBNRkhLbHlfOUdV?oc=5",
-      "source": "coindesk.com",
-      "published_at": "Mon, 30 Mar 2026 19:57:00 GMT",
-      "is_new": true
     }
   ]
 }
