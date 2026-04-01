@@ -1,5 +1,5 @@
 nohup: ignoring input
   File "/home/linuxlite/Desktop/Keygap_AdVantage/KEYGAP_ADVANTAGE.py", line 21
-    SITE_URL = "SITE_URL = "https://keygap-official.github.io/https-keygap-official.github.io/""
-                            ^^^^^
+    SITE_URL = "SITE_URL = "SITE_URL = "https://keygap-official.github.io/https-keygap-official.github.io/"
+                            ^^^^^^^^
 SyntaxError: invalid syntax
