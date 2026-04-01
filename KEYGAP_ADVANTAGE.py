@@ -18,7 +18,7 @@ LATEST_REPORT_HTML = ROOT / "latest_report.html"
 ARCHIVIO = ROOT / "archivio.html"
 USED_NEWS = ROOT / "used_news.json"
 
-SITE_URL = "https://keygap-official.github.io/"
+SITE_URL = "SITE_URL = "https://keygap-official.github.io/https-keygap-official.github.io/""
 BLOG_ID = "2744764892823107807"
 SCOPES = ["https://www.googleapis.com/auth/blogger"]
 
