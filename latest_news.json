@@ -1,6 +1,13 @@
 {
-  "updated_at": "01/04/2026 02:00:06",
+  "updated_at": "01/04/2026 02:03:05",
   "items": [
+    {
+      "title": "Analisi tecnica Bitcoin (BTC)",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aN0NjRGI1NWp2UUhxcjNtYWhuWkJPYWs2UHdZQ3YwQ3pjZTNoaVRqaGNRTi10OUhhd3BQNW1sQjZEQ1RBOTZaNmw2eVJIOU1MYUs5eGhEUkZfTmpMREE?oc=5",
+      "source": "Investing.com",
+      "published_at": "Tue, 31 Mar 2026 21:45:12 GMT",
+      "is_new": false
+    },
     {
       "title": "Bitcoin tiene i 66.000 dollari, ma l’ombra del “Quantum Risk” spaventa le altcoin",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcTMxLTF5SndSZ3JMRVJYZmVzUnBxWHlGUEV4bWk2UkMxLV9hSFlyUUpMTmRuLTZ6X3NoNGpDcVJERVJDSGR4YVV2ZTNxRU9ocUNUUWM2MzgxV1gwaDNXUW5kY0lnVE5NU0wxb0Y3TnluV2UzZldVUS1mTUg0Z2s1TTAwSERobkU?oc=5",
@@ -44,13 +51,6 @@
       "is_new": false
     },
     {
-      "title": "Mizuho riduce il target di prezzo di BitGo su sfondo crypto più debole",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX2VxdHRqeE1weEN5MGtFRUVwQnFyRE5KNk5iajBoZmJVZW1HaWJzUmg1VGhFb1hVX2t1bjIzZEItOG9MMlRvcDdPSlR6TmZxaGotandmMldYZERLWXJRdmxpNVo1bFpfVmtIUUExTmpYczF0MC1ERHFmQ3VObHJtdW5jc20zaDBQb2dqajAxbWUzUDdGQmZ5aGdFTjlHMG9hQmZ2QzJwSWRZYThXWWJSNGhjN09OdEN4QjVGMzNSUjA0cVcwcHR2Nw?oc=5",
-      "source": "Investing.com",
-      "published_at": "Tue, 31 Mar 2026 21:35:00 GMT",
-      "is_new": true
-    },
-    {
       "title": "Notizie Cripto: L'hashrate di Bitcoin scende del 6% mentre il conflitto in Iran e i rendimenti in aumento pesano sul mercato cripto",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81d3dxREJEbHdmMERjQkoxcDI1dWR1V3BEVUVwcnRhTHMwNGJINXFxeElXV3RJUFFEWEFZMFFqQlFPT0c5UUJ4N0k0X0Y4RHF6RndCVU1TOVRsWHBYSkNuYUZHMUM?oc=5",
       "source": "Binance",
@@ -79,11 +79,11 @@
       "is_new": true
     },
     {
-      "title": "Rischio Bitcoin quantistico: quanto manca davvero? Il dato sui 500.000 qubit",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oNXFoai1RTzhPbjJrbVBuS1NnczAweTFidWlDN2o5c2Z6dUhyRGdjcGJ3a2Q2cDNnQnNtS3gwdGMyY0szT1V2VTRlMDJSdTJ0UTRmbzRicWJPZ2VJUXQ4NnVOQVhXdXlaUm5Yd3RR?oc=5",
-      "source": "TradingView",
-      "published_at": "Tue, 31 Mar 2026 07:26:13 GMT",
-      "is_new": false
+      "title": "Mizuho riduce il target di prezzo di BitGo su sfondo crypto più debole",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX2VxdHRqeE1weEN5MGtFRUVwQnFyRE5KNk5iajBoZmJVZW1HaWJzUmg1VGhFb1hVX2t1bjIzZEItOG9MMlRvcDdPSlR6TmZxaGotandmMldYZERLWXJRdmxpNVo1bFpfVmtIUUExTmpYczF0MC1ERHFmQ3VObHJtdW5jc20zaDBQb2dqajAxbWUzUDdGQmZ5aGdFTjlHMG9hQmZ2QzJwSWRZYThXWWJSNGhjN09OdEN4QjVGMzNSUjA0cVcwcHR2Nw?oc=5",
+      "source": "Investing.com",
+      "published_at": "Tue, 31 Mar 2026 21:35:00 GMT",
+      "is_new": true
     }
   ]
 }
