@@ -1,13 +1,1 @@
-{
-  "id": 82808,
-  "updated_at": "01/04/2026 02:45:36",
-  "price_eur": 58704.0,
-  "change_24h_pct": 0.66,
-  "high_24h_eur": 59311.0,
-  "low_24h_eur": 57586.0,
-  "support_eur": 58272.75,
-  "resistance_eur": 59311.0,
-  "bias": "neutrale",
-  "volatility": "media",
-  "quick_read": "Prezzo in equilibrio. \u20ac 58.273 supporto chiave, \u20ac 59.311 resistenza utile."
-}
+{"id": 8607, "updated_at": "01/04/2026 02:55:03", "price_eur": 58933, "change_24h_pct": 0.78526, "support_eur": 57754.34, "resistance_eur": 60111.66, "bias": "neutrale", "quick_read": "Market live a \u20ac 58.933."}
